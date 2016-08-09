@@ -23,7 +23,6 @@ AAAD American Athletic Association Of The Deaf [name Changed To USADSF: United S
 AAAD Asian Academy Of Aesthetic Dentistry
 AAAH American Association Of Alternative Healers
 AAAHC Accreditation Association For Ambulatory Health Care
-AAAHC Accreditation Association For Ambulatory Health Care
 AAAHE American Association For The Advancement Of Health Education
 AAAI American Academy Of Allergy And Immunology; American Association Of Artificial Intelligence
 AAALAC American Association For Accreditation Of Laboratory Animal Care
@@ -76,11 +75,9 @@ AACP American Academy Of Craniofacial Pain
 AACP American Association Of Colleges Of Pharmacy
 AACP American Association Of Community Psychiatrists
 AACPDM American Academy For Cerebral Palsy And Developmental Medicine
-AACPDM American Academy For Cerebral Palsy And Developmental Medicine
 AACPM American Association Of Colleges Of Podiatric Medicine
 AACR American Association For Cancer Research
 AACRC American Association Of Childrenís Residential Centers
-AACS American Academy Of Cosmetic Surgery
 AACS American Academy Of Cosmetic Surgery
 AACSN Asian American Cancer Support Network
 AACT American Academy Of Clinical Toxicology
@@ -117,8 +114,6 @@ AAEBO Association Des Anciens …lcves De Bloc OpÈratoire
 AAED American Academy Of Esthetic Dentistry
 AAEE American Association Of Electromyography And Electrodiagnosis
 AAEM American Academy Of Emergency Medicine
-AAEM American Academy Of Emergency Medicine
-AAEM American Academy Of Environmental Medicine
 AAEM American Academy Of Environmental Medicine
 AAEM American Association Of Electrodiagnostic Medicine
 AAEMS Association Amicale Des …tudiants En MÈdecine De Strasbourg
@@ -132,7 +127,6 @@ AAFP American Academy Of Family Physicians; American Academy Of Family Practice
 AAFP American Academy Of Fixed Prosthodontics
 AAFP American Academy Of Forensic Psychology
 AAFP American Association Of Feline Practitioners
-AAFPRS American Academy Of Facial Plastic And Reconstructive Surgery
 AAFPRS American Academy Of Facial Plastic And Reconstructive Surgery
 AAFS African American Family Services
 AAFS American Academy Of Forensic Sciences
@@ -161,7 +155,6 @@ AAHC Association Of Academic Health Centers
 AAHC Australian Animal Health Council
 AAHCP American Academy Of Home Care Physicians
 AAHD American Association Of Hospital Dentists
-AAHD American Association Of Hospital Dentists
 AAHD Australian Alternative Health Directory
 AAHE American Association For Health Education
 AAHE Association For The Advancement Of Health Education
@@ -177,13 +170,9 @@ AAHPER American Association For Health, Physical Education, And Recreation
 AAHPERD American Alliance For Health, Physical Education, Recreation And Dance
 AAHPM American Academy Of Hospice And Palliative Medicine
 AAHRPP Association For The Accreditation Of Human Research Protection Programs
-AAHRPP Association For The Accreditation Of Human Research Protection Programs
-AAHS American Association For Hand Surgery
 AAHS American Association For Hand Surgery
 AAHSA American Association Of Homes And Services For The Aging
 AAHSL Association Of Academic Health Sciences Libraries
-AAHSL Association Of Academic Health Sciences Libraries
-AAHSLD Association Of Academic Health Sciences Library Directors
 AAHSLD Association Of Academic Health Sciences Library Directors
 AAI Acute Alveolar Injury; Adolescent Alienation Index; American Association Of Immunologists; Atrial Inhibited [pacemaker]
 AAI American Association Of Immunologists
@@ -210,7 +199,6 @@ AALAS American Association For Laboratory Animal Science
 AALAS American Association Of Laboratory Animal Science
 AALL American Association For Labor Legislation
 AALNC American Association Of Legal Nurse Consultants
-AALNC American Association Of Legal Nurse Consultants
 AAM Acute Aseptic Meningitis; American Academy Of Microbiology; Amino Acid Mixture
 AAM American Academy Of Microbiology
 AAM American Academy Of Micropigmentation
@@ -227,8 +215,6 @@ AAMD American Academy Of Medical Directors; American Association Of Mental Defic
 AAMD American Association Of Medical Dosimetrists
 AAMDSIF Aplastic Anemia & MDS International Foundation
 AAMFT American Association For Marriage And Family Therapy
-AAMFT American Association For Marriage And Family Therapy
-AAMI Association For The Advancement Of Medical Instrumentation
 AAMI Association For The Advancement Of Medical Instrumentation
 AAMIH American Association For Maternal And Infant Health
 AAMMA Asociacion Argentina De MÈdicos Por El Medio Ambiente
@@ -242,20 +228,14 @@ AAMRO American Association Of Medical Review Officers
 AAMS Association Of Air Medical Services
 AAMSG Asian American Medical Student Group
 AAMSI American Association For Medical Systems And Informatics
-AAMSI American Association For Medical Systems And Informatics
-AAMT American Association For Medical Transcription
 AAMT American Association For Medical Transcription
 AAN American Academy Of Neurology
-AAN American Academy Of Neurology
-AAN American Academy Of Nursing
 AAN American Academy Of Nursing
 AAN American Academy Of Nutrition
 AAN American Association Of Neuropathologists; Amino Acid Nitrogen; Analgesic-associated Nephropathy; Attendingís Admission Notes
 AANA Alaska Nurses Association
 AANA American Association Of Nurse Anesthetists
-AANA American Association Of Nurse Anesthetists
 AANA Arthroscopy Association Of North America
-AANE American Association Of Nurse Executives
 AANE American Association Of Nurse Executives
 AANEM American Association Of Neuromuscular & Electrodiagnostic Medicine (Previously The American Association Of Electrodiagnostic Medicine)
 AANM American Association Of Nurse-Midwives
@@ -272,14 +252,10 @@ AANS American Association Of Neurological Surgeons
 AANZP Academy Of Australian And New Zealand Prosthodontists
 AAO Alberta Association Of Optometrists
 AAO American Academy Of Ophthalmology
-AAO American Academy Of Ophthalmology
 AAO American Academy Of Optometry
-AAO American Academy Of Optometry
-AAO American Academy Of Osteopathy
 AAO American Academy Of Osteopathy
 AAO American Academy Of Otolaryngology
 AAO American Association Of Ophthalmologists
-AAO American Association Of Orthodontists
 AAO American Association Of Orthodontists
 AAO-HNS American Academy Of Otolaryngology-Head And Neck Surgery
 AAO-HNSF American Academy Of Otolaryngology-Head And Neck Surgery Foundation
@@ -289,9 +265,7 @@ AAOB American Association Of Oral Biologists
 AAOF American Association Of Orthodontists Foundation
 AAOFA Ambulance Association Of America
 AAOHN American Association Of Occupational Health Nurses
-AAOHN American Association Of Occupational Health Nurses
 AAOJ American Academy Of Osteopathy Journal
-AAOM American Academy Of Oral Medicine
 AAOM American Academy Of Oral Medicine
 AAOMP American Academy Of Oral And Maxillofacial Pathology
 AAOMR American Academy Of Oral And Maxillofacial Radiology
@@ -309,23 +283,16 @@ AAOS American Association Of Orthopaedic Surgeons
 AAOSE American Association For Ophthalmic Standardized Echography
 AAOT AsociaciÛn Argentina De Ortopedia Y TraumatologÌa
 AAP American Academy Of Pediatrics
-AAP American Academy Of Pediatrics
 AAP American Academy Of Pedodontics
-AAP American Academy Of Periodontology
 AAP American Academy Of Periodontology
 AAP American Academy Of Psychoanalysis
 AAP American Academy Of Psychoanalysts
 AAP American Academy Of Psychotherapists
-AAP American Academy Of Psychotherapists
 AAP American Association Of Pathologists
 AAP Association For Academic Psychiatry
 AAP Association For The Advancement Of Psychoanalysis
-AAP Association For The Advancement Of Psychoanalysis
-AAP Association For The Advancement Of Psychotherapy
 AAP Association For The Advancement Of Psychotherapy
 AAP Association Of Academic Physiatrists
-AAP Association Of Academic Physiatrists
-AAP Association Of American Physicians
 AAP Association Of American Physicians
 AAPA American Academy Of Physician Assistants
 AAPA American Academy Of Physician Assistants; American Association Of Pathologist Assistants
@@ -335,7 +302,6 @@ AAPAA American Association Of Psychiatrists In Alcoholism And Addictions
 AAPB American Association Of Pathologists And Bacteriologists
 AAPB Association For Applied Psychophysiology And Biofeedback
 AAPC American Association Of Pastoral Counselors
-AAPCC American Association Of Poison Control Centers
 AAPCC American Association Of Poison Control Centers
 AAPCHO Association Of Asian Pacific Community Health Organizations
 AAPD American Academy Of Pediatric Dentistry
@@ -357,22 +323,17 @@ AAPI American Association Of The Physicians Of Indian Origin
 AAPI Association DíAide Aux Personnes Incontinentes
 AAPIL Association Pour Un Avenir Professionnel Des Infirmiers LibÈraux
 AAPL American Academy Of Psychiatry And The Law
-AAPL American Academy Of Psychiatry And The Law
 AAPM American Academy Of Pain Management
 AAPM American Academy Of Pain Medicine
-AAPM American Association Of Physicists In Medicine
 AAPM American Association Of Physicists In Medicine
 AAPM&R American Academy Of Physical Medicine And Rehabilitation
 AAPM&R OR AAPMR American Academy Of Physical Medicine & Rehabilitation
 AAPOS American Association For Pediatric Ophthalmology And Strabismus
 AAPP American Academy On Physician And Patient
 AAPPO American Association Of Preferred Provider Organizations
-AAPPO American Association Of Preferred Provider Organizations
-AAPS American Association Of Pharmaceutical Scientists
 AAPS American Association Of Pharmaceutical Scientists
 AAPS American Association Of Physician Specialists
 AAPS American Association Of Plastic Surgeons
-AAPS Association Of American Physicians And Surgeons
 AAPS Association Of American Physicians And Surgeons
 AAPSC American Association Of Psychiatric Services For Children
 AAPT Association For The Advancement Of Psychotherapy
@@ -381,11 +342,9 @@ AAPTC Australian Association Of Paediatric Teaching Centres
 AAQ Association DíAcupuncture Du QuÈbec
 AAQTE Association Pour LíAssurance QualitÈ En ThÈrapeutique Et Lí…valuation
 AARC American Association For Respiratory Care
-AARC American Association For Respiratory Care
 AARD American Academy Of Restorative Dentistry
 AARDA American Autoimmune Related Diseases Association
 AARN Association For Australian Rural Nurses
-AARP American Association Of Retired Persons
 AARP American Association Of Retired Persons
 AART American Association For Rehabilitation Therapy; American Association For Respiratory Therapy
 AART American Association For Respiratory Therapy
@@ -413,7 +372,6 @@ AASRP American Association Of Small Ruminant Practitioners
 AASS American Association For Social Security
 AASSWB American Association Of State Social Work Boards
 AAST American Association For The Surgery Of Trauma
-AAST American Association For The Surgery Of Trauma
 AAST American Association Of Sleep Technologists (Previously The Association Of Polysomnographic Technologists)
 AASV American Association Of Swine Veterinarians
 AASW Australian Association Of Social Workers
@@ -422,7 +380,6 @@ AATB American Association Of Tissue Banks
 AATBS Association For Advanced Training In Behavioral Sciences
 AATQ Association Des Arts-ThÈrapeutes Du QuÈbec.
 AATRM / CAHTA Agcncia DíAvaluaciÛ De Tecnologia I Recerca Mcdiques / Catalan Agency For Health Technology Assessment
-AATS American Association For Thoracic Surgery
 AATS American Association For Thoracic Surgery
 AAUCM American Academy Of Urgent Care Medicine
 AAV Association Of Avian Veterinarians
@@ -435,8 +392,6 @@ AAVI American Academy Of Veterinary Informatics
 AAVI American Association Of Veterinary Immunologists
 AAVLD American Association Of Veterinary Laboratory Diagnosticians
 AAVMC Association Of American Veterinary Medical Colleges
-AAVMC Association Of American Veterinary Medical Colleges
-AAVP American Association Of Veterinary Parasitologists
 AAVP American Association Of Veterinary Parasitologists
 AAVPT American Academy Of Veterinary Pharmacology And Therapeutics
 AAVSB American Association Of Veterinary State Boards
@@ -464,7 +419,6 @@ ABCD Association Of Biomedical Communications Directors
 ABCD European Advisory Board On Cat Diseases
 ABCN American Board Of Clinical Neurophysiology
 ABCN American Board Of Clinical Neuropsychology
-ABCN American Board Of Clinical Neuropsychology
 ABCN Atlantic Breast Cancer Net
 ABCPD Alliance For Best Clinical Practices In Dentistry
 ABCRS American Board Of Colon And Rectal Surgery
@@ -473,20 +427,17 @@ ABD American Board Of Dermatology
 ABD Arbeitsgemeinschaft F¸r Berufs Und Umweltdermatologie E.V. In Der Deutschen Dermatologischen Gesellschaft
 ABDA American Board Of Disability Analyst
 ABDPH American Board Of Dental Public Health
-ABDPH American Board Of Dental Public Health
 ABDSM American Board Of Dental Sleep Medicine
 ABE Acute Bacterial Endocarditis; American Board Of Endodontics; Botulism Equine Trivalent Antitoxin
 ABE American Board Of Endodontics
 ABEA American Broncho-Esophagological Association
 ABEBE AssociaÁao Brasileira De Estudos Sobre O Bebe
 ABEM American Board Of Emergency Medicine
-ABEM American Board Of Emergency Medicine
 ABEPP American Board Of Examiners In Professional Psychology
 ABFM American Board Of Family Medicine [fomerly: ABFP: American Board Of Family Practice]
 ABFO American Board Of Forensic Odontology
 ABFP American Board Of Forensic Psychology
 ABFT American Board Of Forensic Toxicology
-ABGC American Board Of Genetic Counseling
 ABGC American Board Of Genetic Counseling
 ABHES Accrediting Bureau Of Health Education Schools
 ABHI Association Of British Healthcare Industries
@@ -497,7 +448,6 @@ ABHPM American Board Of Hospice And Palliative Medicine
 ABHW Association Of Behavioral Health And Wellness (Previously The American Managed Behavioral Healthcare Association)
 ABI Association Of British Insurers
 ABIH American Board Of Industrial Hygiene
-ABIM American Board Of Internal Medicine
 ABIM American Board Of Internal Medicine
 ABIMCE American Board Of Internal Medicine Certifying Examination
 ABIME American Board Of Independent Medical Examiners
@@ -510,12 +460,10 @@ ABLM American Board Of Legal Medicine
 ABMCN American Board Of Managed Care Nursing
 ABME Annals Of Biomedical Engineering
 ABMG American Board Of Medical Genetics
-ABMG American Board Of Medical Genetics
 ABMM American Board Of Medical Management
 ABMM American Board Of Medical Microbiology
 ABMP American Board Of Medical Physics
 ABMR Academy Of Behavioral Medicine Research
-ABMS American Board Of Medical Specialties
 ABMS American Board Of Medical Specialties
 ABMT American Board Of Medical Toxicology; Autologous Bone Marrow Transplantation
 ABMTR Autologus Blood & Marrow Transplant Registry
@@ -538,12 +486,10 @@ ABOP American Board Of Oral Pathology
 ABOP American Board Of Orofacial Pain
 ABOR AssociaÁao Brasileira De Ortodontia E Ortopedia Facial. Brazilian Association Of Orthodontics And Facial Orthopedics. AsociaciÛn Brasilena De Ortodoncia - Ortopedia Facial
 ABOS American Board Of Orthopaedic Surgery
-ABOS American Board Of Orthopaedic Surgery
 ABOTO American Board Of Otolaryngology
 ABP American Board Of Pathology
 ABP American Board Of Pediatrics
 ABP American Board Of Pedodontics
-ABP American Board Of Periodontology
 ABP American Board Of Periodontology
 ABP American Board Of Prosthodontics
 ABP American Board Of Prosthodontists; Aminobiphenyl; Androgen-binding Protein; Antigen-binding Protein
@@ -556,17 +502,14 @@ ABPN Association Of British Paediatric Nurses
 ABPNS American Board Of Pediatric Neurological Surgery
 ABPP American Board Of Professional Psychology
 ABPS American Board Of Plastic Surgery
-ABPS American Board Of Plastic Surgery
 ABPSI Association Of Black Psychologists
 ABQAURP American Board Of Quality Assurance And Utilization Review Physicians
-ABR American Board Of Radiology
 ABR American Board Of Radiology
 ABRAT Advances In Behaviour Research And Therapy
 ABRF Association Of Biomolecular Resource Facilities
 ABS American Back Society
 ABS American Behavioral Scientist [periodical]
 ABS American Board Of Sexology
-ABS American Board Of Surgery
 ABS American Board Of Surgery
 ABS American Brachytherapy Society
 ABS Animal Behavior Society
@@ -591,7 +534,6 @@ AC…MC / CACHE Association Canadienne Dí…ducation MÈdicale Continue / Canad
 ACA / CAA Association Canadienne DíAcoustique / Canadian Acoustical Association
 ACA Air Care Alliance
 ACA American Chiropractic Association
-ACA American Chiropractic Association
 ACA American College Of Allergists
 ACA American College Of Anesthesiologists
 ACA American College Of Angiology
@@ -609,7 +551,6 @@ ACAF Association Canadienne Des Ataxies Familiales
 ACAHF Australian Companion Animal Health Foundation
 ACAHO / ACISU Association Of Canadian Academic Healthcare Organizations / Association Canadienne Des Institutions De SantÈ Universitaire
 ACAM American College For Advancement In Medicine
-ACAM American College For Advancement In Medicine
 ACAM Australasian College For Advancement In Medicine
 ACAM Australian Centre For Asthma Monitoring
 ACAP Association Of Chinese American Physicians
@@ -624,7 +565,6 @@ ACBI Association Of Clinical Biochemists In Ireland
 ACBVI Arizona Center For The Blind And Visually Impaired
 ACC / CCA Association Chiropratique Canadienne / Canadian Chiropractic Association
 ACC American College Of Cardiology
-ACC American College Of Cardiology
 ACC Association For Clinical Cytogenetics
 ACC Association Of Chiropractic Colleges
 ACC/AHA American College Of Cardiology/American Hospital Association [Task Force]
@@ -635,12 +575,10 @@ ACCC Association Of Community Cancer Centers
 ACCCN Australian College Of Critical Care Nurses
 ACCD American Coalition Of Citizens With Disabilities
 ACCE American College Of Clinical Engineering
-ACCE American College Of Clinical Engineering
 ACCEPT American College Of Cardiology Electrocardiogram Proficiency Test
 ACCEPT American College Of Cardiology Evaluation Of Preventive Therapies [study]
 ACCG / CAGC Association Canadienne Des Conseillers En GÈnÈtique / Canadian Association Of Genetic Counsellors
 ACCG / CAGS Association Canadienne Des Chirurgiens GÈnÈraux / Canadian Association Of General Surgeons
-ACCH Association For The Care Of Childrenís Health
 ACCH Association For The Care Of Childrenís Health
 ACCI / CAIC Association Canadienne De Cardiologie DíIntervention / Canadian Association Of Interventional Cardiology
 ACCIH Association Des Corps Et Cadres Infirmiers Hospitaliers
@@ -649,10 +587,7 @@ ACCM AIDS Community Care Montreal. SIDA BÈnÈvoles MontrÈal
 ACCM Association Of Chairs And Chiefs Of Medicine
 ACCME Accreditation Council For Continuing Medical Education
 ACCP American College Of Chest Physicians
-ACCP American College Of Chest Physicians
 ACCP American College Of Clinical Pharmacology
-ACCP American College Of Clinical Pharmacology
-ACCP American College Of Clinical Pharmacy
 ACCP American College Of Clinical Pharmacy
 ACCP Association Of Chinese Community Physicians
 ACCPPS American Council Of Certified Podiatric Physicians & Surgeons
@@ -682,14 +617,12 @@ ACEN Academy Of Canadian Executive Nurses
 ACENDIO Association For Common European Nursing Diagnoses, Interventions And Outcomes
 ACEO / CAOS Association Canadienne Des …tudiants En OptomÈtrie / Canadian Association Of Optometry Students
 ACEP American College Of Emergency Physicians
-ACEP American College Of Emergency Physicians
 ACERH Australian Centre For Economic Research On Health
 ACESI / CASN / Association Canadienne Des …coles De Sciences Infirmicres / Canadian Association Of Schools Of Nursing
 ACET / CANTRA Association Canadienne DíEquitation ThÈrapeutique / Canadian Therapeutic Riding Association
 ACF Administration For Children And Families
 ACFAO American College Of Foot And Ankle Orthopedics And Medicine
 ACFAOM American College Of Foot & Ankle Orthopedics & Medicine
-ACFAS American College Of Foot And Ankle Surgeons
 ACFAS American College Of Foot And Ankle Surgeons
 ACFCQ / CPAFK Adult Cystic Fibrosis Committee Of Quebec / ComitÈ Provincial Des Adultes Fibro-Kystiques
 ACFD / AFDC Association Of Canadian Faculties Of Dentistry / Association Des FacultÈs Dentaires Du Canada
@@ -745,9 +678,7 @@ ACLAD American Committee On Laboratory Animal Diseases
 ACLAM American College Of Laboratory Animal Medicine
 ACLD Association For Children With Learning Disabilities
 ACLM American College Of Legal Medicine
-ACLM American College Of Legal Medicine
 ACLM Australian College Of Legal Medicine
-ACLPS Academy Of Clinical Laboratory Physicians And Scientists
 ACLPS Academy Of Clinical Laboratory Physicians And Scientists
 ACM Asbestos-containing Material; Association Of Computing Machinery; Automated Cardiac Flow Measurement
 ACM Association Of Clinical Microbiologists
@@ -755,7 +686,6 @@ ACMC Association Of Canadian Medical Colleges
 ACMDP Association Des Conseils Des MÈdecins, Dentistes Et Pharmaciens Du QuÈbec
 ACMDTT Alberta College Of Medical Diagnostic & Therapeutic Technologists
 ACME Alliance For Continuing Medical Education
-ACMG American College Of Medical Genetics
 ACMG American College Of Medical Genetics
 ACMGF American College Of Medical Genetics Foundation
 ACMH Association For Childrenís Mental Health
@@ -796,11 +726,8 @@ ACO / COA Association Canadienne DíOrthopÈdie / Canadian Orthopaedic Associati
 ACOA / CASLPA Association Canadienne Des Orthophonistes Et Audiologistes / Canadian Association Of Speech-Language Pathologists And Audiologists
 ACOCA AIDS Council Of Central Australia
 ACOEM American College Of Occupational And Environmental Medicine
-ACOEM American College Of Occupational And Environmental Medicine
-ACOEP American College Of Osteopathic Emergency Physicians
 ACOEP American College Of Osteopathic Emergency Physicians
 ACOFP American College Of Osteopathic Family Physicians
-ACOG American College Of Obstetricians And Gynecologists
 ACOG American College Of Obstetricians And Gynecologists
 ACOHA American College Of Osteopathic Hospital Administrators
 ACOHM Australian College Of Herbal Medicine
@@ -808,9 +735,7 @@ ACOI American College Of Osteopathic Internists
 ACOM / CAMO Association Canadienne Des Oncologues MÈdicaux / Canadian Association Of Medical Oncologists
 ACOM American College Of Occupational Medicine; Anterior Communicating [artery]
 ACOMS American College Of Oral And Maxillofacial Surgeons
-ACOMS American College Of Oral And Maxillofacial Surgeons
 ACON AIDS Council Of New South Wales
-ACOOG American College Of Osteopathic Obstetricians And Gynecologists
 ACOOG American College Of Osteopathic Obstetricians And Gynecologists
 ACOP / CAPO Association Canadienne DíOncologie Psychosociale / Canadian Association Of Psychosocial Oncology
 ACOP American College Of Osteopathic Pediatricians; Approved Code Of Practice
@@ -829,10 +754,7 @@ ACP American College Of Pathologists
 ACP American College Of Pharmacists
 ACP American College Of Phlebology
 ACP American College Of Physicians
-ACP American College Of Physicians
 ACP American College Of Prosthodontists
-ACP American College Of Prosthodontists
-ACP American College Of Psychiatrists
 ACP American College Of Psychiatrists
 ACP Analytical Cellular Pathology [periodical]
 ACP Association For Child Psychiatrists
@@ -845,7 +767,6 @@ ACPA American Cleft Palate-Craniofacial Association
 ACPA Australian Cerebral Palsy Association
 ACPE Accreditation Council For Pharmacy Education
 ACPE American College Of Physician Executives
-ACPE American College Of Physician Executives
 ACPGBI Assocation Of Coloproctology Of Great Britain And Ireland
 ACPM / CMPA Association Canadienne De Protection MÈdicale / Canadian Medical Protective Association
 ACPM Amerian College Of Preventive Medicine
@@ -857,8 +778,6 @@ ACPSEM Australasian College Of Physical Scientists And Engineers In Medicine
 ACQ Association Des Cytologistes Du QuÈbec
 ACQIP Ambulatory Care Quality Improvement Program
 ACR American College Of Radiology
-ACR American College Of Radiology
-ACR American College Of Rheumatology
 ACR American College Of Rheumatology
 ACR/NEMA American College Of Radiology/National Electrical Manufacturersí Association [standard For Transferring Radiologic Images]
 ACRC / CACR Association Canadienne De RÈadaptation Cardiaque / Canadian Association Of Cardiac Rehabilitation
@@ -874,10 +793,7 @@ ACRRM Australian College Of Rural And Remote Medicine
 ACRSPS / CAHSPR Association Canadienne Pour La Recherche Sur Les Services Et Les Politiques De La SantÈ / Canadian Association For Health Services And Policy Research [Previously: Association Canadienne Pour La Recherche En …conomie De La SantÈ / Canadian Health Economics Research Association (ACRES/CHERA)]
 ACS Acute Coronary Syndromes [periodical]
 ACS American Cancer Society
-ACS American Cancer Society
 ACS American Chemical Society
-ACS American Chemical Society
-ACS American College Of Surgeons
 ACS American College Of Surgeons
 ACS Association Des Cadres De SantÈ
 ACS Association Of Clinical Scientists
@@ -894,7 +810,6 @@ ACSH / CADS Association Canadienne Pour Les Skieurs HandicapÈs / Canadian Assoc
 ACSH American Council On Science And Health
 ACSI Association Of Clinical Scientists In Immunology
 ACSM / CMHA Association Canadienne Pour La SantÈ Mentale / Canadian Mental Health Association
-ACSM American College Of Sports Medicine
 ACSM American College Of Sports Medicine
 ACSMA American Canine Sports Medicine Association
 ACSN Aspartame Consumer Safety Network
@@ -920,7 +835,6 @@ ACTUR Automated Central Tumor Registry
 ACU Association Of Clinicians For The Underserved
 ACUC AssociaciÛ Catalana DíUrnlegs De Comarques
 ACURP American College Of Utilization Review Physicians
-ACURP American College Of Utilization Review Physicians
 ACVA American College Of Veterinary Anesthesiologists
 ACVCP American College Of Veterinary Clinical Pharmacology
 ACVECC American College Of Veterinary Emergency And Critical Care
@@ -941,9 +855,7 @@ ADA Association Of Dialysis Advocates
 ADA Australian Dental Association
 ADA CERP American Dental Association Continuing Education Recognition Program
 ADA+C Alberta Dental Association And College
-ADA+C Alberta Dental Association And College
 ADAA Alberta Dental Assistants Association
-ADAA American Dental Assistants Association
 ADAA American Dental Assistants Association
 ADAA Anxiety Disorders Association Of America
 ADAAF American Dental Assistants Association Foundation
@@ -985,7 +897,6 @@ ADF Australian Drug Foundation
 ADFQ Alcohol And Drug Foundation Queensland
 ADGAP Association Of Directors Of Geriatric Academic Programs
 ADH Academy Of Dentistry For The Handicapped
-ADHA American Dental Hygienists Association
 ADHA American Dental Hygienists Association
 ADHD Attention Deficit /Hyperactivity Dirsorder
 ADHP Advanced Dental Hygiene Practitioner
@@ -1030,7 +941,6 @@ ADSNA Australian Day Surgery Nurses Association
 ADSS Alcohol And Drug Services Study
 ADTA American Dance Therapy Association
 ADTA American Dental Trade Association
-ADTA American Dental Trade Association
 ADTO Association Of Dental Technologists Of Ontario
 ADUFA Animal Drug User Fee Act
 ADVAMED Advanced Medical Technology Association [Previously: Health Industry Manufacturers Association]
@@ -1068,9 +978,7 @@ AERAIO Attestation Dí…tude Et De Recherche Approfondies En Implantologie Oral
 AES Acetone-extracted Serum; Ambulatory Encounter System; American Electroencephalographic Society; American Encephalographic Society
 AES American Endocrine Society
 AES American Endodontic Society
-AES American Endodontic Society
 AES American Epidemiological Society
-AES American Equilibration Society
 AES American Equilibration Society
 AETC AIDS Education And Training Centers. National Resource Center
 AETMIS Agence DíÈvaluation Des Technologies Et Des Modes Díintervention En SantÈ
@@ -1202,8 +1110,6 @@ AGT Association Of Genetic Technologists
 AH American Health [periodical]
 AHA Allergy, Hypersensitivity, Asthma [periodical]
 AHA American Heart Association
-AHA American Heart Association
-AHA American Hospital Association
 AHA American Hospital Association
 AHA American Hyperlexia Association
 AHA Anesthesia History Association
@@ -1235,7 +1141,6 @@ AHIA Australian Health Insurance Association
 AHIF Alabama Head Injury Foundation
 AHILA / AIBSA Association For Health Information And Libraries In Africa / Association Pour LíInformation Et Les Bibliothcques De SantÈ En Africa
 AHIMA American Health Information Management Association
-AHIMA American Health Information Management Association
 AHIP Academy Of Health Information Professionals
 AHIP Americaís Health Insurance Plans
 AHIS Animal Health Information Specialists
@@ -1246,7 +1151,6 @@ AHMA American Holistic Medicine Association; Antiheart Muscle Autoantibody
 AHMC Association Of Hospital Management Committees
 AHME Association For Hospital Medical Education
 AHNA American Holistic Nurses Association
-AHNS American Head And Neck Society
 AHNS American Head And Neck Society
 AHOC Australian Health Outcomes Collaboration
 AHP Accountable Health Plan
@@ -1266,7 +1170,6 @@ AHRC Association For The Help Of Retarded Children
 AHRIS / SAIRS Automated Health Research Information System / Systcme AutomatisÈ DíInformation Sur La Recherche En SantÈ
 AHRMM Association For Healthcare Resource & Materials Management
 AHRQ Agency For Healthcare Research And Quality [Previously: Agency For Health Care Policy And Research AHCPR]
-AHS Academy Of Health Sciences
 AHS Academy Of Health Sciences
 AHS African Health Sciences [periodical]
 AHS American Headache Society
@@ -1488,11 +1391,8 @@ ALTS Association Of Laparoscopic Theatre Staff
 AMA Alberta Medical Association
 AMA American Management Association
 AMA American Medical Association
-AMA American Medical Association
-AMA Australian Medical Association
 AMA Australian Medical Association
 AMA-DE American Medical Association Drug Evaluation
-AMA(SA) Australian Medical Association South Australia
 AMA(SA) Australian Medical Association South Australia
 AMAA American Medical Athletic Association
 AMAC Australian Medical Acupuncture College
@@ -1503,7 +1403,6 @@ AMANET African Malaria Network Trust [Previously: African Malaria Vaccine Testin
 AMANET, AMA/NET American Medical Association Network
 AMC / CMA Association MÈdicale Canadienne / Canadian Medical Association
 AMC Archives Des Maladies Du Coeur Et Des Vaisseaux
-AMCAS American Medical College Application Service
 AMCAS American Medical College Application Service
 AMCD Association Of Managed Care Dentists
 AMCEHPAD Amicale Des MÈdecins Coordonnateurs En EHPAD (…tablissements HÈbergeant Des Personnes ¬gÈes DÈpendantes)
@@ -1516,7 +1415,6 @@ AMCRA American Managed Care & Review Association
 AMCRA American Managed Care And Review Association
 AMD Association For Macular Diseases
 AMDA Acid Maltase Deficiency Association
-AMDA American Medical Directors Association
 AMDA American Medical Directors Association
 AMDF American Macular Degeneration Foundation
 AMDS Association Of Military Dental Surgeons
@@ -1546,7 +1444,6 @@ AMI Academy Of Molecular Imaging
 AMI Argatroban In Myocardial Infarction [study]; Association Of Medical Illustrators; Athletic Motivation Inventory; Axiomesioincisal
 AMI Association Of Medical Illustrators
 AMI Australasian Medical Index
-AMIA American Medical Informatics Association
 AMIA American Medical Informatics Association
 AMIF Association Des MÈdecins IsraÈlites De France
 AMIP Alliance Of Medical Internet Professionals
@@ -1609,8 +1506,6 @@ AMWA Australasian Medical Writers Association
 ANA Acoustic Neuroma Association
 ANA American Narcolepsy Association
 ANA American Neurological Association
-ANA American Neurological Association
-ANA American Nurses Association
 ANA American Nurses Association
 ANAA American Nursing Assistants Association
 ANAB Anorexia Nervosa And Bulimia Association
@@ -1706,11 +1601,9 @@ AOA Administration On Aging
 AOA Alpha Omega Alpha Honor Society
 AOA American Obesity Association
 AOA American Optometric Association
-AOA American Optometric Association
 AOA American Orthopaedic Association
 AOA American Orthopedic Association
 AOA American Orthopsychiatric Association
-AOA American Osteopathic Association
 AOA American Osteopathic Association
 AOA AsociaciÛn OdontolÛgica Argentina
 AOA Association Of Otolaryngology Administrators
@@ -1725,7 +1618,6 @@ AOB Acta Orthopaedica Belgica
 AOB Australasian Orthodontic Board
 AOBEM American Osteopathic Board Of Emergency Medicine
 AOCA American Osteopathic College Of Anesthesiologists
-AOCD American Osteopathic College Of Dermatology
 AOCD American Osteopathic College Of Dermatology
 AOCNP Advanced Oncology Certified Nurse Practitioner)
 AOCNS Advanced Oncology Certified Clinical Nurse Specialist
@@ -1779,7 +1671,6 @@ AOSW Association Of Oncology Social Work
 AOT Association Of Occupational Therapists
 AOT Association Of Orthopaedic Technicians
 AOTA American Occupational Therapy Association
-AOTA American Occupational Therapy Association
 AOTA American Organ Transplant Association
 AOTF American Occupational Therapy Foundation
 AP Academy Of Prosthodontics
@@ -1829,7 +1720,6 @@ APD Association Of Professors Of Dermatology
 APD Australian Private Doctor [periodical]
 APDA American Parkinson Disease Association
 APDHES Association Pour La Promotion Du Droit Hospitalier Et De Lí…conomie De La SantÈ
-APDIM Association Of Program Directors In Internal Medicine
 APDIM Association Of Program Directors In Internal Medicine
 APDR Association Of Program Directors In Radiology
 APDVS Association Of Program Directors In Vascular Surgery
@@ -1893,7 +1783,6 @@ APM Academy Of Psychosomatic Medicine
 APM AsociaciÛn PsicoanalÌtica Mexicana
 APM Association For Palliative Medicine Of Great Britain And Ireland
 APM Association Of Professors Of Medicine
-APM Association Of Professors Of Medicine
 APMA American Podiatric Medical Association
 APMIS Acta Pathologica, Microbiologica Et Immunologica Scandinavica
 APMR Association For Physical And Mental Rehabilitation
@@ -1926,16 +1815,12 @@ APREMAS Association Pour La PrÈvention Des Maladies Du Sein
 APRN Advanced Practice Registered Nurse
 APRN HPAR Advanced Practice Registered Nurse Hospice And Palliative Alternative Recertification
 APS American Pain Society
-APS American Pain Society
 APS American Paraplegia Society
 APS American Pediatric Society
 APS American Physiological Society
-APS American Physiological Society
 APS American Proctologic Society
 APS American Prosthodontic Society
-APS American Prosthodontic Society
 APS American Psychological Society
-APS American Psychosomatic Society
 APS American Psychosomatic Society
 APS Association For Psychological Science [Previously: American Psychological Society]
 APS Australian Pain Society
@@ -1952,7 +1837,6 @@ APSMV Asia Pacific Society For Medical Virology
 APSNA American Pediatric Surgical Nurses Association
 APSS Association For The Psychophysiological Study Of Sleep
 APSYL Association Des Psychiatres Ligeriens
-APTA American Physical Therapy Association
 APTA American Physical Therapy Association
 APTA American Polarity Therapy Association
 APTEPF Association Pour La PrÈvention, Le Traitement Et Lí…tude Des Polyposes Familiales
@@ -2040,10 +1924,8 @@ ARR Academy Of Radiology Research
 ARR Assisted Reproduction Reviews [periodical]
 ARRO Association Of Residents In Radiation Oncology
 ARRS American Roentgen Ray Society
-ARRS American Roentgen Ray Society
 ARRT Advances In Renal Replacement Therapy [periodical]
 ARRT American Registry Of Radiologic Technologists
-ARS American Radium Society
 ARS American Radium Society
 ARS American Rhinologic Society
 ARS American Rhinologic Society; Antirabies Serum; Arsphenamine; Arylsulfatase; Atherogenic Risk Study; Autonomously Replicating Sequence
@@ -2068,7 +1950,6 @@ ASA American Schizophrenia Association
 ASA American Skin Association
 ASA American Society Of Andrology
 ASA American Society Of Anesthesiologists
-ASA American Society Of Anesthesiologists
 ASA American Society On Aging
 ASA American Standards Association
 ASA American Surgical Association
@@ -2085,7 +1966,6 @@ ASADA Australian Sports Anti-Doping Authority
 ASAE American Society Of Association Executives
 ASAHP American Society Of Allied Health Professions
 ASAHP Association Of Schools Of Allied Health Professions
-ASAIO American Society For Artificial Internal Organs
 ASAIO American Society For Artificial Internal Organs
 ASAM American Society Of Addiction Medicine
 ASAM Australasian Society Of Aerospace Medicine
@@ -2111,9 +1991,7 @@ ASBH American Society For Bioethics And Humanities
 ASBMB American Society For Biochemistry And Molecular Biology
 ASBMR American Society For Bone And Mineral Research
 ASBMT American Society For Blood And Marrow Transplantation
-ASBMT American Society For Blood And Marrow Transplantation
 ASBP American Society Of Bariatric Physicians
-ASBS American Society For Bariatric Surgery
 ASBS American Society For Bariatric Surgery
 ASBS American Society Of Breast Surgeons
 ASC / CAD Association Des Sourds Du Canada / Canadian Association Of The Deaf
@@ -2127,8 +2005,6 @@ ASCCA American Society Of Critical Care Anesthesiologists
 ASCCP American Society For Colposcopy And Cervical Pathology
 ASCEPT Australasian Society Of Clinical And Experimental Pharmacologists And Toxicologists
 ASCH American Society Of Clinical Hypnosis
-ASCH American Society Of Clinical Hypnosis
-ASCI American Society For Clinical Investigation
 ASCI American Society For Clinical Investigation
 ASCIA American Spinal Cord Injury Association
 ASCIA Australasian Society Of Clinical Immunology And Allergy
@@ -2191,16 +2067,13 @@ ASFU Asian Society For Female Urology
 ASG Advanced Cell Group; American Society For Genetics; Army Surgeon General; Aspermiogenesis
 ASGBI Anatomical Society Of Great Britain And Ireland
 ASGBI Association Of Surgeons Of Great Britain And Ireland
-ASGBI Association Of Surgeons Of Great Britain And Ireland
 ASGD American Society For Geriatric Dentistry
-ASGE American Society For Gastrointestinal Endoscopy
 ASGE American Society For Gastrointestinal Endoscopy
 ASGPP American Society Of Group Psychotherapy And Psychodrama
 ASGS American Society Of General Surgeons
 ASGT American Society Of Gene Therapy
 ASH Action On Smoking And Health
 ASH Action On Smoking And Health Australia
-ASH American Society Of Hematology
 ASH American Society Of Hematology
 ASH American Society Of Hypertension
 ASHA American School Health Association
@@ -2235,7 +2108,6 @@ ASHRM American Society For Healthcare Risk Management
 ASHT American Society Of Hand Therapists
 ASI / SBK Association Suisse Des Infirmicres Et Infirmiers. Schweizer Berufsverband Der Krankenschwestern Und Krandenpfleger. Associazione Svizzera Infermiere E Infirmieri. Swiss Nurses Association
 ASIA American Spinal Injury Association
-ASIA American Spinal Injury Association
 ASIDIC Association Of Information And Dissemination Centers
 ASIF Association For Study Of Internal Fixation
 ASIM American Society Of Internal Medicine
@@ -2254,14 +2126,12 @@ ASLM American Society Of Law And Medicine
 ASLME American Society Of Law, Medicine, And Ethics
 ASLMS American Society For Laser Medicine And Surgery
 ASM American Society For Microbiology
-ASM American Society For Microbiology
 ASM Austrian Society For Aerospace Medicine
 ASMA Aerospace Medical Association
 ASMA Aerospace Medical Association; Antismooth Muscle Antibody
 ASMAA Association Syndrome De Marfan - Les Amis DíAntoine
 ASMDT American Society Of Master Dental Technologists
 ASME / SVPM Association Suisse De MÈdecine …quine / Schweizerische Vereinigung F¸r Pferdemedizin
-ASME Association For The Study Of Medical Education
 ASME Association For The Study Of Medical Education
 ASMF Australian Sports Medicine Federation
 ASMI American Sports Medicine Institute
@@ -2273,7 +2143,6 @@ ASMS American Society For Mohs Surgery
 ASMT Acetylserotonin Methyltransferase; American Society For Medical Technology
 ASN AIDS Support Network Of San Luis Obispo County
 ASN American Society For Nutrition
-ASN American Society Of Nephrology
 ASN American Society Of Nephrology
 ASN American Society Of Neurochemistry
 ASN American Society Of Neuroimaging
@@ -2321,7 +2190,6 @@ ASPEA / ASPEE / SKJP Association Suisse De Psychologie De LíEnfance Et De LíAd
 ASPEDAH Association Suisse Romande De Parents DíEnfants Avec DÈficit DíAttention Avec Ou Sans HyperactivitÈ
 ASPEE / ASPEA / SKJP Associazione Svizzera Di Psicologia DellíEtr Evolutiva / Association Suisse De Psychologie De LíEnfance Et De LíAdolescence / Schweizerische Vereinigung F¸r Kinder- Und Jugendpsychologie
 ASPEN American Society For Parenteral And Enteral Nutrition
-ASPEN American Society For Parenteral And Enteral Nutrition
 ASPEN Asperger Syndrome Education Network
 ASPEPS Association Pour Le Perfectionnement Des Professions De SantÈ
 ASPET American Society For Pharmacology And Experimental Therapeutics
@@ -2362,7 +2230,6 @@ ASSCID Australian Society Of Special Care In Dentistry
 ASSEDEA Association Dí…tude Et DíAide Aux Enfants AmputÈs
 ASSERT A Standard For The Scientific And Ethical Review Of Trials
 ASSH American Society For Surgery Of The Hand
-ASSH American Society For Surgery Of The Hand
 ASSH Australian Society For Simulation In Healthcare
 ASSIPHAR Association Nationale Des Assistants Et Anciens Assistants En Pharmacie Hospitalicre
 ASSO / ACO Austrian Society Of Surgical Oncology / Arbeitsgemeinschaft F¸r Chirurgische Onkologie Der ÷sterreichischen Gesellschaft F¸r Chirurgie
@@ -2371,7 +2238,6 @@ ASSOC Association, Associate
 ASSR American Society Of Spine Radiology
 AST Alsace SantÈ Au Travail
 AST American Society Of Transplantation
-AST Association Of Surgical Technologists
 AST Association Of Surgical Technologists
 ASTA Australasian Sleep Technologists Association
 ASTAM American Society For Testing And Materials
@@ -2383,14 +2249,11 @@ ASTER Association Francophone De StÈrilisation
 ASTHO Association Of State And Territorial Health Officers; Association Of State And Territorial Health Officials
 ASTHO Association Of State And Territorial Health Officials
 ASTM American Society For Testing And Materials
-ASTM American Society For Testing And Materials
-ASTMH American Society Of Tropical Medicine And Hygiene
 ASTMH American Society Of Tropical Medicine And Hygiene
 ASTMJS American Society Of Temporomandibular Joint Surgeons
 ASTNA Air & Surface Transport Nurses Association [Previously: National Flight Nurses Association]
 ASTP Association Suisse Des ThÈrapeutes De La PsychomotricitÈ. Verband Schweizerischer Psychomotorik-Therapeutinnen Und -Therapeuten. Associazioni Svizzera Dei Terapeuti Dell Psicomotricitr
 ASTPHND Association Of State And Territorial Public Health And Nutrition Directors
-ASTRO American Society For Therapeutic Radiology And Oncology
 ASTRO American Society For Therapeutic Radiology And Oncology
 ASTS American Society Of Transplant Surgeons
 ASTSS Australasian Society For Traumatic Stress Studies
@@ -2398,13 +2261,10 @@ ASUM Australasian Society For Ultrasound In Medicine
 ASV American Society For Virology
 ASVIN Assisting And Supporting Veterinary Information Needs
 ASVO American Society Of Veterinary Ophthalmology
-ASVO American Society Of Veterinary Ophthalmology
 ASVPP American Society Of Veterinary Physiologists And Pharmacologists
 AT Apheresis Technician
 ATA Alliance For Technology Access
 ATA American Telemedicine Association
-ATA American Telemedicine Association
-ATA American Thyroid Association
 ATA American Thyroid Association
 ATA American Tinnitus Association
 ATAC Art Therapy Association Of Colorado
@@ -2425,8 +2285,6 @@ ATP Association For Transpersonal Psychology
 ATPO Association Of Technical Personnel In Ophthalmology
 ATPRN Art Therapy Practice Research Network
 ATS American Thoracic Society
-ATS American Thoracic Society
-ATS American Trauma Society
 ATS American Trauma Society
 ATS American Trudeau Society
 ATS Annals Of Thoracic Surgery
@@ -2444,10 +2302,8 @@ AUGIS Association Of Upper Gastrointestinal Surgeons
 AUHSM Association Des Usagers De LíHÙpital Et Des Soins MÈdicaux
 AUNIS Association Des Utilisateurs De Nomenclatures Nationales Et Internationales Dans Le Domaine De La SantÈ
 AUPHA Association Of University Programs In Health Administration
-AUPHA Association Of University Programs In Health Administration
 AUPN Association Of University Professors Of Neurology
 AUQ / QUA Association Des Urologues Du QuÈbec / Quebec Urological Association
-AUR Association Of University Radiologists
 AUR Association Of University Radiologists
 AURAD Association Pour LíUtilisation Du Rein Artificiel r Domicile En Aquitaine
 AURT Association Of University Radiologic Technicians
@@ -2487,7 +2343,6 @@ AVIS Animal Virus Information System
 AVLIC / AILVC Association Of Visual Language Interpreters Of Canada / Association Des Interprctes En Language Visuel Du Canada
 AVMA Alabama Veterinary Medical Association
 AVMA American Veterinary Medical Association
-AVMA American Veterinary Medical Association
 AVMA Arkansas Veterinary Medical Association
 AVMF American Veterinary Medical Foundation
 AVMLA American Veterinary Medical Law Association
@@ -2523,7 +2378,6 @@ BACB Behavior Analyst Certification Board
 BACD British Academy Of Cosmetic Dentistry
 BACDA British Association Of Community Doctors In Audiology
 BACR British Association For Cancer Research
-BACR British Association For Cancer Research
 BACR British Association For Cardiac Rehabilitation
 BAD Biological Aerosol Detection; Biologically Active Dose; British Association Of Dermatologists
 BAD British Association Of Dermatologists
@@ -2554,12 +2408,10 @@ BAPHYSMED British Association Of Physical Medicine
 BAPHYSMED British Association Physical Medicine
 BAPN British Association For Paediatric Nephrology
 BAPO Belgian Association Of Pediatric Orthopaedics
-BAPO Belgian Association Of Pediatric Orthopaedics
 BAPO British Association For Paediatric Otorhinolaryngology
 BAPO British Association Of Paediatric Otorhinolaryngologists
 BAPO British Association Of Prosthetists And Orthotists
 BAPRAS British Association Of Plastic, Reconstructive And Aesthetic Surgeons [Previously: BAPS: British Association Of Plastic Surgeons]
-BAPS British Association Of Paediatric Surgeons
 BAPS British Association Of Paediatric Surgeons
 BAPS British Association Of Plastic Surgeons
 BAPT British Association Of Physical Training
@@ -2580,7 +2432,6 @@ BASPCAN British Association For The Study And Prevention Of Child Abuse And Negl
 BASRT British Association For Sexual And Relationship Therapy
 BASS British Association Of Spinal Surgeons
 BATOD British Association Of Teachers Of The Deaf
-BAUS British Association Of Urological Surgeons
 BAUS British Association Of Urological Surgeons
 BB Bed Board
 BB Technologist In Blood Banking
@@ -2614,7 +2465,6 @@ BCEN Board Of Certification For Emergency Nursing
 BCF The Breast Cancer Fund
 BCHIMPS British Columbia Health Information Management Professionals Society
 BCIA Biomedical Clinical Instrumentation Association
-BCIS British Cardiovascular Intervention Society
 BCIS British Cardiovascular Intervention Society
 BCLA British Contact Lens Association
 BCMA British Columbia Medical Association
@@ -2683,13 +2533,11 @@ BHF British Heart Foundation
 BHG Belgian Hand Group
 BHI Better Hearing Institute
 BHIA British Healthcare Internet Association
-BHIA British Healthcare Internet Association
 BHIVA British HIV Association
 BHPR HRSA Bureau Of Health Professions
 BHS Belgian Hip Society
 BHS British Hip Society
 BHSMI / DMI BIH Society For Medical Informatics Of Bosnia & Herzegovina / Druötvo Za Medicinsku Informatiku, Bosna I Hercegovina
-BI&T Biomedical Instrumentation & Technology [periodical]
 BI&T Biomedical Instrumentation & Technology [periodical]
 BIA-HI Brain Injury Association Of Hawaii
 BIA-MA Brain Injury Association Of Massachusetts
@@ -2734,7 +2582,6 @@ BIR British Institute Of Radiology
 BIRAS British Inflammation Research Association
 BIS Brain Injury Society
 BIS British Infection Society
-BIS British Infection Society
 BIUM Bibliothcque InterUniversitaire De MÈdecine
 BJ Biochemical Journal
 BJA British Journal Of Addiction
@@ -2761,11 +2608,9 @@ BLROA British Laryngological, Rhinological, And Otological Association
 BLRS British Limb Reconstruction Society
 BMA Biological Movement Artifacts; Bone Marrow Arrest; Bone Mineral Area; British Medical Association
 BMA British Medical Association
-BMA British Medical Association
 BMAS British Medical Acupuncture Society
 BMC BioMed Central
 BME Biomedical Engineering: Applications, Basis And Communications [periodical]
-BMES Biomedical Engineering Society
 BMES Biomedical Engineering Society
 BMJ British Medical Journal
 BMQA Board Of Medical Quality Assurance
@@ -2788,7 +2633,6 @@ BNMS British Nuclear Medicine Society
 BNN British Nursing News
 BOA Behavioral Observation Audiometry; Born On Arrival; British Orthopaedic Association
 BOA British Oncology Association
-BOA British Orthopaedic Association
 BOA British Orthopaedic Association
 BOAS British Ophthalmic Anaesthesia Society
 BODD Botanical Dermatology Database
@@ -2884,8 +2728,6 @@ BSRA British Society For Research On Ageing
 BSRD British Society For Restorative Dentistry
 BSRS British Society For Refractive Surgery
 BSS British Scoliosis Society
-BSS British Scoliosis Society
-BSSH British Society For Surgery Of The Hand
 BSSH British Society For Surgery Of The Hand
 BSSM British Society Of Sexual Medicine
 BTA Blood Transfusion Association
@@ -2906,7 +2748,6 @@ BUMED U.S. Navy Bureau Of Medicine And Surgery
 BVA Blind Veterans Association
 BVA Blind Veterans Association; British Veterinary Association
 BVA Blinded Veterans Association
-BVA British Veterinary Association
 BVA British Veterinary Association
 BVCA Belgian Veterinary Computer Association
 BVDA British Veterinary Dental Association
@@ -2942,7 +2783,6 @@ CABRI Common Access To Biological Resources And Information
 CABS Current Awareness In Biological Sciences [database]
 CACB / ACBC Canadian Academy Of Clinical Biochemistry / AcadÈmie Canadienne De Biochimie Clinique
 CACC / ACSSC Canadian Association For Community Care / Association Canadienne De Soins Et Services Communautaires
-CACCN Canadian Association Of Critical Care Nurses
 CACCN Canadian Association Of Critical Care Nurses
 CACF Coalition For Asian American Children & Families
 CACHCA / RCACCS Canadian Alliance Of Community Health Centre Associations / Regroupement Canadien Des Associations De Centres Communautaires De SantÈ
@@ -3044,7 +2884,6 @@ CAOT Canadian Association Of Occupational Therapy
 CAP / ACP Canadian Academy Of Periodontology / AcadÈmie Canadienne De Parodontologie
 CAP / ACP Canadian Association Of Pathologists / Association Canadienne Des Pathologistes
 CAP Caribbean Association Of Pharmacists
-CAP College Of American Pathologists
 CAP College Of American Pathologists
 CAPC Center To Advance Palliative Care
 CAPCA Canadian Association Of Provincial Cancer Agencies. Association Canadienne Des Agences Provinciales Du Cancer
@@ -3345,7 +3184,6 @@ CDRR Coalition For The Medical Rights Of Women
 CDS Centre De Documentation En SantÈ
 CDS Chicago Dental Society
 CDS Christian Dental Society
-CDS Christian Dental Society
 CDS Cincinnati Dental Society
 CDS Columbus Dental Society
 CDS-INAS Centre De Documentation En SantÈ - Institut National DíAdministration Sanitaire
@@ -3553,7 +3391,6 @@ CHIM Certified Health Information Management
 CHIMA Canadian Health Information Management Association
 CHIME Centre For Health Informatics & Multiprofessional Education
 CHIME College Of Healthcare Information Management Executives
-CHIME College Of Healthcare Information Management Executives
 CHIMR Centre For Health Information Management Research
 CHIN Community Health Information Network
 CHIN Congenital Heart Information Network
@@ -3688,7 +3525,6 @@ CIRRIE Center For International Rehabilitation Research Information And Exchange
 CIRS Centre International De Recherche Scientifique. International Center For Scientific Research. Centro Internacional De InvestigaciÛn CientÌfica
 CIRS Critical Incidents Reporting System
 CIRSE Cardiovascular And Interventional Radiological Society Of Europe
-CIRSE Cardiovascular And Interventional Radiological Society Of Europe
 CIS Cancer Information System
 CIS Clinical Immunology Society
 CIS-WG American Medical Informatics Association Clinical Information Systems Working Group
@@ -3747,7 +3583,6 @@ CLIN ComitÈs De Lutte Contre Les Infections Nosocomiales
 CLISP Collcge De Liaison Des Internes De SantÈ Publique
 CLIVE Computer-aided Learning In Veterinary Education
 CLL FOUNDATION Chronic Lymphocytic Leukemia Foundation
-CLMA Clinical Laboratory Management Association
 CLMA Clinical Laboratory Management Association
 CLMR Clinical Laboratory Management Review
 CLN Clinical Laboratory News
@@ -3815,7 +3650,6 @@ CMPA / ACPM Canadian Medical Protective Association / Association Canadienne De 
 CMPH Clinical Microbiology Procedures Handbook
 CMPS Center For Modern Psychoanalytic Studies
 CMQ Collcge Des MÈdecins Du QuÈbec
-CMQ Collcge Des MÈdecins Du QuÈbec
 CMQ Conseil MÈdical Du QuÈbec
 CMR Caisse Maladie RÈgionale
 CMR Centre For Medicines Research International
@@ -3840,7 +3674,6 @@ CMU Couverture Maladie Universelle
 CN Contemporary Nurse [periodical]
 CNA / AIIC Canadian Nurses Association / Association Des Infirmicres Et Infirmiers Du Canada
 CNA Calcium Nutrient Agar; Canadian Nurses Association; Certified Nursing Assistant
-CNA California Nurses Association
 CNA California Nurses Association
 CNA Certified Nursing Assistant
 CNA Chicago Nurses Association
@@ -3918,7 +3751,6 @@ CO Certified Orthotist
 COA / ACO Canadian Orthopaedic Association / Association Canadienne DíOrthopÈdie
 COA California Optometric Association
 COA California Orthopaedic Association
-COA California Orthopaedic Association
 COA Canadian Ophthalmological Association; Canadian Orthopaedic Association; Certificate Of Authority; Cervico-oculo-acusticus [syndrome]; Condition On Admission
 COA Canadian Orthopaedic Association (Canadian Medical Association Affiliates)
 COA Canadian Osteopathic Association
@@ -3964,7 +3796,6 @@ CONA Canadian Orthopaedic Nurses Association. Association Canadienne Des Infirmi
 CONJ / RCSIO Canadian Oncology Nursing Journal Canadienne De Soins Infirmiers En Oncologie
 CONQUEST COmputerized Needs-Oriented QUality Measurement Evaluation SysTem
 CONRAD Contraceptive Research And Development Program
-CONSORT Consolidated Standards Of Reporting Trials
 CONSORT Consolidated Standards Of Reporting Trials
 CONVINCE Consortium Of North American Veterinary Interactive New Concept Education
 COPE Committee On Publication Ethics
@@ -4066,7 +3897,6 @@ CPSI / ICSP Canadian Patient Safety Institute / Institut Canadien Pour La SÈcur
 CPSNB College Of Physicians And Surgeons Of New Brunswick. Collcge Des MÈdecins Et Chirurgiens Du Nouveau-Brunswick
 CPSNS College Of Physicians And Surgeons Of Nova Scotia
 CPSO College Of Physicians And Surgeons Of Ontario
-CPSO College Of Physicians And Surgeons Of Ontario
 CPT Current Procedural Terminology
 CPUM Certified Professional In Utilization Management
 CPUR Certified Professional In Utilization Review
@@ -4149,7 +3979,6 @@ CRWH Centre For Research In Womenís Health
 CS Clinical Specialist
 CSA California Society Of Anesthesiologists
 CSA Canadian Standards Association
-CSA Canadian Standards Association
 CSA Canadian Stuttering Association
 CSA Care Standards Act
 CSA/USA Celiac Sprue Association/United States Of America
@@ -4178,11 +4007,9 @@ CSCN Canadian Society Of Clinical Neurophysiology
 CSCQ Conseil De La SantÈ Communautaire Du QuÈbec
 CSCR California Society For Cardiac Rehabilitation
 CSCR Central Society For Clinical Research
-CSCR Central Society For Clinical Research
 CSCT Canadian Society Of Cardiology Technologists
 CSCT Certificat De Synthcse Clinique Et ThÈrapeutique
 CSDA Connecticut State Dental Association
-CSDMS Canadian Society Of Diagnostic Medical Sonographers
 CSDMS Canadian Society Of Diagnostic Medical Sonographers
 CSE Canadian Society Of Echocardiography
 CSE Center For Social Epidemiology.
@@ -4230,9 +4057,7 @@ CSOHNS Canadian Society Of Otolaryngology-Head & Neck Surgery
 CSOMA California State Oriental Medical Association
 CSOS Chinese Speaking Orthopaedic Society
 CSOT Canadian Society Of Orthopaedic Technologists
-CSOT Canadian Society Of Orthopaedic Technologists
 CSP California Society Of Periodontists
-CSP Chartered Society Of Physiotherapy
 CSP Chartered Society Of Physiotherapy
 CSP Code De La SantÈ Publique
 CSPAAT / WSIB Commission De La SÈcuritÈ Professionnelle Et De LíAssurance Contre Les Accidents Du Travail / Workplace Safety And Insurance Board
@@ -4584,7 +4409,6 @@ DWDV Dying With Dignity Victoria [Previously: Voluntary Euthanasia Society Of Vi
 DWSN Dandy-Walker Syndrome Network
 E-MEP European Membrane Protein Consortium
 EA Endometriosis Association
-EA Endometriosis Association
 EA Environment Agency (UK)
 EAA Educational Audiology Association
 EAA Epilepsy Association Of America
@@ -4603,7 +4427,6 @@ EACME / AECEM European Association Of Centres Of Medical Ethics / Association Eu
 EACMFS European Association For Cranio-Maxillofacial Surgery
 EACPR European Association For Cardiovascular Prevention & Rehabilitation
 EACPT European Association For Clinical Pharmacology And Therapeutics
-EACR European Association For Cancer Research
 EACR European Association For Cancer Research
 EACTA European Association Of Cardiothoracic Anaesthesiologists
 EACTS European Association For Cardio-thoracic Surgery
@@ -4636,7 +4459,6 @@ EAPCI European Association Of Percutaneous Cardiovascular Interventions
 EAPD European Academy Of Paediatric Dentistry
 EAPP European Association Of Personality Psychology
 EAR European Association Of Radiology
-EAR European Association Of Radiology
 EARSS European Antimicrobial Resistance Surveillance System
 EAS Edinburgh Artery Study; Emergency Ambulance Service; Endarterectomized Aortic Segment; European Atherosclerosis Society
 EAS European Atherosclerosis Society
@@ -4646,7 +4468,6 @@ EASE Eczema & Sensitve-Skin Education
 EASE European Association Of Science Editors
 EASL European Association For Study Of The Liver
 EASO European Association For The Study Of Obesity
-EAST Eastern Association For The Surgery Of Trauma
 EAST Eastern Association For The Surgery Of Trauma
 EASVO European Board Of Veterinary Specialisation
 EATB European Association Of Tissue Banks
@@ -4795,7 +4616,6 @@ EFNA European Federation Of Neurological Associations
 EFNS European Federation Of Neurological Societies
 EFOMP European Federation Of Organisations For Medical Physics
 EFORT European Federation Of National Associations Of Orthopaedics And Traumatology
-EFORT European Federation Of National Associations Of Orthopaedics And Traumatology
 EFOSA European Federation Of Orthodontic Specialists Associations. FÈdÈration EuropÈenne Des Associations De Specialistes En Orthodontie
 EFP European Federation Of Parasitologists
 EFP European Federation Of Periodontology
@@ -4934,7 +4754,6 @@ EMQN European Molecular Genetics Quality Network
 EMR Electronic Medical Record
 EMRA Emergency Medical Response Agency
 EMRA Emergency Medicine Residents Association
-EMRA Emergency Medicine Residents Association
 EMRO WHO Eastern Mediterranean Regional Office
 EMRS Electronic Medical Record System
 EMRS Emergency Management Response System (USDA Veterinary Services)
@@ -4969,7 +4788,6 @@ ENS European Neurological Society
 ENSD / NDSE Examen National Des SpÈcialitÈs Dentaires / National Dental Specialty Examination
 ENW Emergency Nursing World
 EOA Eastern Orthopaedic Association
-EOA Eastern Orthopaedic Association
 EOA Egyptian Orthopaedic Association
 EOA Egyptian Orthopedic Association
 EOJ Egyptian Orthodontic Journal
@@ -4981,7 +4799,6 @@ EORS European Orthopaedics Research Society
 EORTC European Organisation For Research And Treatment Of Cancer
 EOS Egyptian Ophthalmological Society
 EOS Egyptian Orthodontic Society
-EOS European Orthodontic Society
 EOS European Orthodontic Society
 EPA /EPO /OEB Europ‰ische Patent Amt / European Patent Office / Organisation EuropÈenne Des Brevets
 EPA Egyptian Psychiatric Association
@@ -5074,7 +4891,6 @@ ESGNI European Study Group On Nosocomial Infections
 ESGT European Society Of Gene Therapy
 ESH European Society Of Hypertension
 ESHEL Association For Planning And Development Of Services For The Aged In Israel
-ESHG European Society Of Human Genetics
 ESHG European Society Of Human Genetics
 ESHNR European Society Of Head And Neck Radiology
 ESHO European Society For Hyperthermic Oncology
@@ -5230,7 +5046,6 @@ FACPE Fellow Of The American College Of Physician Executives
 FACPM Fellow Of The American College Of Preventive Medicine
 FACR Fellow Of The American College Of Radiology
 FACS Fellow Of The American College Of Surgeons
-FACS Fellow Of The American College Of Surgeons
 FACS Fellow Of The American College Of Surgeons; Fluorescence-activated Cell Sorter
 FACSM Fellow Of The American College Of Sports Medicine
 FACT Foundation For The Accreditation Of Cellular Therapy
@@ -5257,7 +5072,6 @@ FARAD Food Animal Residue Avoidance Databank
 FARS Fatality Analysis Reporting System
 FAS Federation Of American Scientists
 FAS Fetal Alcohol Syndrome
-FASA Federated Ambulatory Surgery Association
 FASA Federated Ambulatory Surgery Association
 FASB Financial Accounting Standards Board
 FASE Federation Of Acoustical Societies Of Europe
@@ -5453,7 +5267,6 @@ FOA Federation Of Orthodontic Associations
 FOA Florida Optometric Association
 FOCIS Federation Of Clinical Immunology Societies
 FONS Foundation Of Nursing Studies
-FONS Foundation Of Nursing Studies
 FOOD Forum Et InfOs Sur Les RÈactiOns Dues Aux Aliments. Forum Et InfOs On ReactiOns Due To Foods. Forum Et InfOs ¸ber ReaktiOnen Durch Nahrungsmittel
 FOPH / BAG / OFSP / UFSP Federal Office Of Public Health / Bundesamt F¸r Gesundheit / Office FÈdÈral De La SantÈ Publique / Ufficio Federale Della Sanitr Pubblica
 FOPIM Fonds De Promotion De LíInformation MÈdicale Et MÈdico-Èconomique
@@ -5464,7 +5277,6 @@ FOS Florida Orthopaedic Society
 FOSA Federation Of Spine Associations
 FOSA Federation Of Spine Associations (AAOS Specialty Societies)
 FP Association France Parkinson
-FPA Family Planning Association
 FPA Family Planning Association
 FPA Family Planning Australia
 FPA Florida Pharmacy Association
@@ -5688,7 +5500,6 @@ GROG Groupes RÈgionaux DíObservation De La Grippe
 GRS Geriatrics Review Syllabus
 GSA Genetics Society Of America
 GSA Gerontological Society Of America
-GSA Gerontological Society Of America
 GSDB Genome Sequence Data Base
 GSDHS Greater Seattle Dental Hygienists Society
 GSF - GETO Groupe Sarcome FranÁais - Groupe Dí…tude Des Tumeurs Osseuses
@@ -5803,7 +5614,6 @@ HFI Hepatitis Foundation International
 HFM Health Facilities Management [periodical]
 HFM Hemophilia Foundation Of Michigan
 HFMA Healthcare Financial Management Association
-HFMA Healthcare Financial Management Association
 HFNC Hemophilia Foundation Of Northern California
 HFSA Heart Failure Society Of America
 HGC Human Genetics Commission (UK)
@@ -5827,7 +5637,6 @@ HIAA Health Insurance Association Of America
 HIBCC Health Industry Business Communications Council
 HICPAC Healthcare Infection Control Practices Advisory Committee
 HID Handbook On Injectable Drugs
-HIDA Health Industry Distributors Association
 HIDA Health Industry Distributors Association
 HIDA Health Industry Distributors Association; Hepato-iminodiacetic Acid (lidofenin) [nuclear Medicine Scan]
 HIE Health Informatics Europe [periodical]
@@ -5867,7 +5676,6 @@ HKASMSS Hong Kong Association Of Sports Medicine And Sports Science
 HKCOS Hong Kong College Of Orthopaedic Surgeons
 HKDA Hong Kong Dental Association
 HKMA Hong Kong Medical Association
-HKOA Hong Kong Orthopaedic Association
 HKOA Hong Kong Orthopaedic Association
 HKSCC Hong Kong Society Of Clinical Chemistry
 HL7 Health Level Seven [standard Developing Organization]
@@ -6004,7 +5812,6 @@ IADE Infirmiers AnesthÈsistes DiplÙmÈs Dí…tat
 IADH International Association For Disabilities And Oral Health
 IADMFR International Association Of Dento-Maxillo-Facial Radiology
 IADR International Association For Dental Research
-IADR International Association For Dental Research
 IADS International Association Of Dental Students
 IADT International Association Of Dental Traumatology
 IAED International Association For Equine Dentistry
@@ -6051,7 +5858,6 @@ IAOMS International Association Of Oral And Maxillofacial Surgeons
 IAOO International Academy Of Oral Oncology
 IAOP International Association Of Oral Pathologists
 IAP International Academy Of Pathology
-IAP International Academy Of Pathology
 IAP International Academy Of Periodontology
 IAP International Academy Of Proctology
 IAP International Association Of Pancreatology
@@ -6066,7 +5872,6 @@ IAPO International Alliance Of Patients Organizations
 IAPP International Association For Preventive Pediatrics; Islet Amyloid Polypeptide
 IAPSP International Association For Psychoanalytic Self Psychology
 IAPSRS International Association Of Psychosocial Rehabilitation Services
-IAPSRS International Association Of Psychosocial Rehabilitation Services
 IARC / CIRC International Agency For Research On Cancer / Centre International De Recherche Sur Le Cancer
 IARP International Association Of Rehabilitation Professionals
 IARS International Anesthesia Research Society
@@ -6078,7 +5883,6 @@ IASH Inter-American Society Of Hypertension. Sociedad Interamericana De Hiperten
 IASIA Institute For Advanced Studies In Immunology And Aging
 IASK Nternational Association Of Specialized Kinesiologists. Association Internationale De KinÈsiologistes SpÈcialisÈs
 IASL International Association For Study Of The Liver
-IASLC International Association For The Study Of Lung Cancer
 IASLC International Association For The Study Of Lung Cancer
 IASO International Association For The Study Of Obesity
 IASP International Association For Study Of Pain
@@ -6241,7 +6045,6 @@ ICRW International Center For Research On Women
 ICS Infirmicres Conseillcres De SantÈ
 ICS Intensive Care Society
 ICS International Cloning Society
-ICS International College Of Surgeons
 ICS International College Of Surgeons
 ICS International Continence Society
 ICS International Cytokine Society
@@ -6410,7 +6213,6 @@ IHRB Industrial Health Research Board
 IHS Indian Health Service
 IHS Institute Of Health Sciences
 IHS International Headache Society
-IHS International Headache Society
 IHS International Health Society
 IHS International Hearing Society
 IHS International Herpetological Society
@@ -6503,7 +6305,6 @@ IMHI Institute For Mental Health Initiatives
 IMI Institute For Molecular Imaging
 IMI Institute Of Medical Illustrators
 IMI International Medical Implant
-IMIA International Medical Informatics Association
 IMIA International Medical Informatics Association
 IMIA International Medical Interpreters Association
 IMIA-NI International Medical Informatics Association-Nursing Informatics
@@ -6636,7 +6437,6 @@ IPHA Illinois Pharmacists Association
 IPHA Illinois Public Health Association
 IPHA International Pediatric Hypertension Association
 IPITA International Pancreas And Islet Transplant Association
-IPITA International Pancreas And Islet Transplant Association
 IPJ International Poster Journal Of Dentistry And Oral Medicine
 IPNA International Pediatric Nephrology Association
 IPOPI International Patient Organization For Primary Immunodeficiencies
@@ -6660,7 +6460,6 @@ IQWIG Institut F¸r Qualit‰t Und Wirtschaftlichkeit Im Gesundheitswesen. Insti
 IRA Institut De Radiophysique AppliquÈe
 IRB Immunoreactive Bead; Institutional Review Board
 IRB Institutional Review Board
-IRB Institutional Review Board
 IRB International Register On Biosafety
 IRCAD Institut De Recherche Contre Les Cancers De LíAppareil Digestif
 IRCT International Rehabilitation Council For Torture Victims
@@ -6676,7 +6475,6 @@ IRM HCFAís Information Resources Management Plan
 IRMEF Institut RÈgional De La Mcre, De LíEnfant Et De La Famille
 IRMO Information Resources Management Office (CDC)
 IRMVS Institute For Reparative Medicine And Vascular Surgery
-IRPA International Radiation Protection Association
 IRPA International Radiation Protection Association
 IRPA International Retinitis Pigmentosa Association
 IRPA/INIRC International Radiation Protection Associationís International Non-Ionizing Radiation Committee
@@ -6720,7 +6518,6 @@ ISBT International Society For Blood Transfusion
 ISBTC International Society For Biological Therapy Of Cancer
 ISC International Society Of Cardiology
 ISC International Society Of Chemotherapy
-ISC International Society Of Chemotherapy
 ISCAIC International Symposium On Computing In Anesthesia And Intensive Care
 ISCAIP International Society For Child And Adolescent Injury Prevention
 ISCAS International Society For Computer Aided Surgery
@@ -6740,7 +6537,6 @@ ISCMR International Society For Complementary Medicine Research
 ISCOS International Spinal Cord Society
 ISCP Infection Surveillance And Control Program; International Society Of Comparative Pathology
 ISCP International Society Of Comparative Psychology
-ISCVS International Society For Cardiovascular Surgery
 ISCVS International Society For Cardiovascular Surgery
 ISD International Society Of Dermatology
 ISD International Society Of Dermatopathology
@@ -6773,7 +6569,6 @@ ISH International Society Of Hematology
 ISH International Society Of Hypertension
 ISH International Society Of Hypnosis
 ISHAM International Society For Human And Animal Mycology
-ISHAM International Society For Human And Animal Mycology
 ISHBPR International Society Of Hepato-Biliary Pancreatic Radiology
 ISHG Irish Society Of Human Genetics
 ISHIM International Society For The History Of Islamic Medicine
@@ -6791,7 +6586,6 @@ ISIE International Society For Imaging In The Eye
 ISIS Information Society Initiative For Standardization
 ISIS Institute Of Science In Society
 ISIS International Society On Infant Studies
-ISIS International Spinal Injection Society
 ISIS International Spinal Injection Society
 ISJ Internet Science Journal
 ISKO International Society For Knowledge Organization
@@ -6932,7 +6726,6 @@ IVNTA International Veterinary Nurses And Technicians Association
 IVPT Institute Of Veterinary Pharmacology And Toxicology
 IVRA International Veterinary Radiology Association
 IVSA International Veterinary Students Association
-IVSA International Veterinary Students Association
 IVT Institut VÈtÈrinaire Tropical
 IVTG In Vitro Toxicology Group
 IVU International Volunteers In Urology
@@ -6945,11 +6738,9 @@ IYOP International Year Of Older Persons 1999
 JA Journal Of Agromedicine
 JAAA Journal Of The American Academy Of Audiology
 JAAD Journal Of The American Academy Of Dermatology
-JAAD Journal Of The American Academy Of Dermatology
 JAAGL Journal Of The American Association Of Gynecologic Laparoscopists
 JAAM Japanese Association For Acute Medicine
 JAAMT Journal Of The American Association For Medical Transcription
-JAAOS Journal Of The American Academy Of Orthopaedic Surgeons
 JAAOS Journal Of The American Academy Of Orthopaedic Surgeons
 JAAP Journal Of The American Academy Of Psychoanalysis
 JAAPA Journal Of The American Academy Of Physician Assistants
@@ -6966,7 +6757,6 @@ JACI Journal Of Allergy And Clinical Immunology
 JACN Journal Of The American College Of Nutrition
 JACR Journal Of The American College Of Radiology
 JACS Journal Of The American Chemical Society
-JACS Journal Of The American College Of Surgeons
 JACS Journal Of The American College Of Surgeons
 JAD Journal Of Adhesive Dentistry
 JADA Journal Of The American Dental Association
@@ -6985,11 +6775,9 @@ JALDA Journal Of The Alabama Dental Association
 JAM Journal Of Addiction Medicine
 JAM Journal Of Audiological Medicine
 JAMA Journal Of The American Medical Association
-JAMA Journal Of The American Medical Association
 JAMC / CMAJ Journal De LíAssociation MÈdicale Canadienne / Canadian Medical Association Journal
 JAMDA Journal Of The American Medical Directors Association
 JAMI Japan Association For Medical Informatics
-JAMIA Journal Of The American Medical Informatics Association
 JAMIA Journal Of The American Medical Informatics Association
 JAMIP Journal Of The Alliance Of Medical Internet Professionals
 JAMIT Japanese Society Of Medical Imaging Technology
@@ -6997,7 +6785,6 @@ JAMWA Journal Of The American Medical Womenís Association
 JAN Journal Of Advanced Nursing
 JANAC Journal Of The Association Of Nurses In AIDS Care
 JANS Japan Academy Of Nursing Science
-JAOA Journal Of The American Osteopathic Association
 JAOA Journal Of The American Osteopathic Association
 JAP Journal Of Applied Physiology
 JAPA Journal Of Aging And Physical Activity
@@ -7081,7 +6868,6 @@ JCP Journal Of Clinical Psychiatry
 JCP Journal Of Communication Pathology
 JCPD Journal Of Clinical Pediatric Dentistry
 JCPN Journal Of Child And Adolescent Psychiatric And Mental Health Nursing
-JCPTGP Joint Committee On Postgraduate Training For General Practice
 JCPTGP Joint Committee On Postgraduate Training For General Practice
 JCQHC Japan Council For Quality Health Care
 JCR Joint Commission Resources
@@ -7375,7 +7161,6 @@ KVMA Kentucky Veterinary Medical Association
 KYDA Kentucky Dental Association
 KYSS Keep Your Children/yourself Safe And Secure
 LA LIGUE Ligue Nationale Contre Le Cancer
-LA LIGUE Ligue Nationale Contre Le Cancer
 LAA Lymphoedema Association Of Australia
 LACTMED Drugs And Lactation Database
 LAD Laboratoire Suisse DíAnalyse Du Dopage
@@ -7530,7 +7315,6 @@ MCA Medicines Control Agency
 MCA Michigan Chiropractic Association
 MCADSV Michigan Coalition Against Domestic And Sexual Violence
 MCAT Medical College Admission Test
-MCAT Medical College Admission Test
 MCB Molecular And Cellular Biology [periodical]
 MCBRC Molecular Cell Biology Research Communications [periodical]
 MCC / CDIC Maladies Chroniques Au Canada / Chronic Diseases In Canada [periodical]
@@ -7642,7 +7426,6 @@ MGCRB Medicare Geographic Classification Review Board
 MGED Microarray Gene Expression Database
 MGFA Myasthenia Gravis Foundation Of America
 MGG Molecular And General Genetics [periodical]
-MGMA Medical Group Management Association
 MGMA Medical Group Management Association
 MGMAC Medical Group Management Association Of Canada
 MGRS WHO Multicenter Growth Reference Study
@@ -7874,7 +7657,6 @@ MSNA Maine State Nurses Association
 MSO Massachusetts Society Of Optometrists
 MSO Midwestern Society Of Orthodontists
 MSOA Missouri State Orthopaedic Association
-MSOA Missouri State Orthopaedic Association
 MSOP Medical School Objectives Project
 MSPTM Malaysian Society Of Parasitology And Tropical Medicine
 MSQR Multiple Sclerosis Quarterly Report
@@ -7888,7 +7670,6 @@ MSSAMT Michigan State Society American Medical Technologists
 MSSG Stanford Medical Student Survival Guide
 MSSS Ministcre De La SantÈ Et Des Services Sociaux
 MSSVD Medical Society For The Study Of Venereal Diseases
-MSTS Musculoskeletal Tumor Society
 MSTS Musculoskeletal Tumor Society
 MSU-PVMA Michigan State University Pre-Veterinary Medical Association
 MSV Medical Society Of Virginia
@@ -7925,7 +7706,6 @@ NAA National Aphasia Association
 NAAC National Anemia Action Council
 NAAC North American Agromedicine Consortium
 NAACCR North American Association Of Central Cancer Registries
-NAACCR North American Association Of Central Cancer Registries
 NAACOG Nurses Association Of The American College Of Obstetricians And Gynecologists
 NAACS National Association Of Air Medical Communication Specialists
 NAADD National Association On Alcohol, Drugs & Disability
@@ -7943,7 +7723,6 @@ NAASP National Association Of Assistants In Surgical Practice
 NABCO National Alliance Of Breast Cancer Organizations
 NABIS Northern Alberta Brain Injury Society
 NABM Nomenclature Des Actes De Biologie MÈdicale
-NABP National Association Of Boards Of Pharmacy
 NABP National Association Of Boards Of Pharmacy
 NABPLEX National Association Of Boards Of Pharmacy Licensing Examination
 NABR National Association For Biomedical Research
@@ -7968,7 +7747,6 @@ NACDS National Association Of Chain Drug Stores
 NACDS North American Clinical Dermatological Society
 NACH National Association Of Childrenís Hospitals
 NACHRI National Association Of Childrenís Hospitals And Related Institutions
-NACHRI National Association Of Childrenís Hospitals And Related Institutions
 NACI / CCNI National Advisory Committee On Immunization / ComitÈ Consultatif National De LíImmunisation
 NACNEP National Advisory Council On Nurse Education And Practice
 NACNS National Association Of Clinical Nurse Specialists
@@ -7980,7 +7758,6 @@ NADC National Asian Deaf Congress
 NADCRC National Advisory Dental & Craniofacial Research Council
 NADF National Adrenal Diseases Foundation
 NADL National Association Of Dental Laboratories
-NADL National Association Of Dental Laboratories
 NADONA/LTC National Association Of Directors Of Nursing Administration In Long Term Care
 NADP National Association Of Dental Plans
 NADS National Association For Down Syndrome
@@ -7990,7 +7767,6 @@ NAEMD National Academy Of Emergency Medical Dispatch
 NAEMSE National Association Of EMS Educators
 NAEMSP National Association Of Emergency Medical Services Physicians
 NAEMSP National Association Of EMS Physicians
-NAEMT National Association Of Emergency Medical Technicians
 NAEMT National Association Of Emergency Medical Technicians
 NAEP National Asthma Education Programme
 NAEPP National Asthma Education And Prevention Program
@@ -8013,7 +7789,6 @@ NAHC National Association For Home Care & Hospice
 NAHCR National Association For Health Care Recruitment
 NAHCS National Association Of Health Center Schools
 NAHDO National Association Of Health Data Organizations
-NAHDO National Association Of Health Data Organizations
 NAHE Newsletter For Allied Health Educators
 NAHEC Northern Wisconsin Area Health Education Center
 NAHEMS National Animal Health Emergency Management System
@@ -8027,13 +7802,11 @@ NAHMS National Animal Health Monitoring System
 NAHN National Association Of Hispanic Nurses
 NAHPA National Association Of Hospital Purchasing Agents
 NAHQ National Association For Healthcare Quality
-NAHQ National Association For Healthcare Quality
 NAHSA National Association For Hearing And Speech Action
 NAHSE National Association Of Health Services Executives
 NAHSL North Atlantic Health Sciences Libraries
 NAHU National Association Of Health Underwriters
 NAHUC National Association Of Health Unit Clerks-Coordinators
-NAIC National Association Of Insurance Commissioners
 NAIC National Association Of Insurance Commissioners
 NAINR Newborn And Infant Nursing Reviews [periodical]
 NAIP National Association Of Inpatient Physicians; Neuronal Apoptosis Inhibitory Protein
@@ -8065,7 +7838,6 @@ NAO National Academy Of Opticianry
 NAO National Area Health Education Center Organization. National AHEC Organization
 NAOMA National Acupuncture And Oriental Medicine Alliance
 NAON National Association Of Orthopaedic Nurses
-NAON National Association Of Orthopaedic Nurses
 NAOO National Association Of Optometrists And Opticians
 NAOT National Association Of Orthopaedic Technologists
 NAP National Association Of Phlebotomists
@@ -8079,7 +7851,6 @@ NAPE National Association Of Physicians For The Environment
 NAPH Naphthyl; National Association Of Public Hospitals; Nicotinamide Adenine Dinucleotide Phosphate
 NAPH National Association Of Public Hospitals And Health Systems
 NAPHS National Association Of Psychiatric Health Systems
-NAPHSIS National Association For Public Health Statistics And Information Systems
 NAPHSIS National Association For Public Health Statistics And Information Systems
 NAPHT National Association Of Patients On Hemodialysis And Transplantation
 NAPI Neurobehavioral Assessment Of The Preterm Infant
@@ -8120,7 +7891,6 @@ NARS National Acupuncture Research Society
 NARS National Association Of Radiation Survivors
 NARSAD National Alliance For Research On Schizophrenia And Depression
 NAS National Academy Of Sciences
-NAS National Academy Of Sciences
 NAS National Association Of Sanitarians
 NAS National Autistic Society
 NAS Nordisk Audiologisk Selskab. Nordic Audiological Society
@@ -8146,7 +7916,6 @@ NASPE North American Society For Pacing And Electrophysiology
 NASPE North American Society Of Pacing And Electrophysiology
 NASPE/BPEG North American Society Of Pacing And Electrophysiology [NASPE]-British Pacing And Electrophysiology Group [BPEG] Pacemaker Coding
 NASPEM North American Society For Pediatric Exercise Medicine
-NASPEM North American Society For Pediatric Exercise Medicine
 NASPGHAN North American Society For Pediatric Gastroenterology Hepatology, And Nutrition
 NASPHV National Association Of State Public Health Veterinarians
 NASPSPA North American Society For The Psychology Of Sport And Physical Activity
@@ -8154,7 +7923,6 @@ NASS National Accident Sampling System; North American Spine Society
 NASS North American Spine Society
 NASS North American Spine Society (also: AAOS Related Organizations)
 NASTAD National Alliance Of State & Territorial AIDS Directors
-NASW National Association Of Social Workers
 NASW National Association Of Social Workers
 NAT National AIDS Trust
 NATA National Athletic Trainers Association
@@ -8187,7 +7955,6 @@ NBCCF National Breast Cancer Coalition Fund
 NBCDI National Black Child Development Institute
 NBCH National Business Coalition On Health
 NBCHPN National Board For Certification Of Hospice & Palliative Nurses
-NBCOT National Board For Certification In Occupational Therapy
 NBCOT National Board For Certification In Occupational Therapy
 NBDAA / AADNB New Brunswick Dental Assistants Association / Association Des Assistants Et Assistantes Dentaires Du Nouveau-Brunswick
 NBDE National Board Dental Examination
@@ -8340,7 +8107,6 @@ NCRR National Center For Research Resources
 NCS National Center For Stuttering
 NCS Neurocritical Care Society
 NCSBN National Council Of State Boards Of Nursing
-NCSBN National Council Of State Boards Of Nursing
 NCSBS National Center On Shaken Baby Syndrome
 NCSC National Care Standards Commission
 NCSDD National Community Services Data Dictionary
@@ -8356,7 +8122,6 @@ NCVMA North Carolina Veterinary Medical Association
 NCVO National Council For Voluntary Organisations
 NCYC National Collection Of Yeast Cultures
 NCZVED National Center For Zoonotic, Vector-Borne, And Enteric Diseases
-NDA National Dental Association
 NDA National Dental Association
 NDAA National Dental Assistants Association
 NDAA Nebraska Dental Assistants Association
@@ -8404,7 +8169,6 @@ NEALS National Educational Alliance Of Life Sciences
 NEBO National Examining Board Of Ocularists
 NEDA National Eating Disorders Association
 NEDARC National Emergency Medical Services For Children Data Analysis Resource Center
-NEDARC National Emergency Medical Services For Children Data Analysis Resource Center
 NEDSS National Electronic Disease Surveillance System
 NEEAT NAASP Electronic Education And Assessment Tool (National Association Of Assistants In Surgical Practice)
 NEHA National Environmental Health Association
@@ -8434,7 +8198,6 @@ NESCH New England Society Of Clinical Hypnosis
 NESCI Northeast England Stem Cell Institute
 NESHCO New England Society For Healthcare Communications
 NESHS New England Society For Healthcare Strategy
-NESO Northeastern Society Of Orthodontists
 NESO Northeastern Society Of Orthodontists
 NESP Northeastern Society Of Periodontics
 NESVS New England Society For Vascular Surgery
@@ -8472,7 +8235,6 @@ NGNA National Gerontological Nursing Association
 NGR National Glaucoma Research
 NGSP National Glycohemoglobin Standardization Program
 NHA National Health Association
-NHA National Health Association
 NHA National Hearing Association
 NHA National Hemophilia Association
 NHAAP National Heart Attack Alert Program
@@ -8506,7 +8268,6 @@ NHIMAC National Health Information Management Advisory Council
 NHIRC National Health Information Resource Center
 NHIS National Health Interview Survey
 NHIVNA National HIV Nurseís Association (UK)
-NHLA National Health Lawyers Association
 NHLA National Health Lawyers Association
 NHLBI National Heart, Lung, And Blood Institute
 NHLBI OEI NHLBI Obesity Education Initiative
@@ -8675,10 +8436,8 @@ NMPHA New Mexico Pharmaceutical Association
 NMRC Naval Medical Research Center
 NMS National Mortalitly Survey
 NMSS National Multiple Sclerosis Society
-NMSS National Multiple Sclerosis Society
 NMSS National Multiple Sclerosis Society; National Mycobacterial Surveillance System [Australia And New Zealand]
 NMT Nuclear Medicine Technologist
-NMTCB Nuclear Medicine Technology Certification Board
 NMTCB Nuclear Medicine Technology Certification Board
 NMVMA New Mexico Veterinary Medical Association
 NN/LM National Network Of Libraries Of Medicine
@@ -8751,7 +8510,6 @@ NPA National PACE Association (PACE: Program Of All-inclusive Care For The Elder
 NPA National Pediculosis Association
 NPA National Perinatal Association
 NPA National Pharmaceutical Association
-NPA National Pharmaceutical Association
 NPA National Prostate Association
 NPA Nebraska Pharmacists Association
 NPA Nurse Practice Act
@@ -8806,18 +8564,15 @@ NREF Non-Redundant Reference Protein Database
 NREMT National Registry Of Emergency Medical Technicians
 NRHA National Rural Health Alliance
 NRHA National Rural Health Association
-NRHA National Rural Health Association
 NRHN National Rural Health Network
 NRID National Registry Of Interpreters For The Deaf
 NRIS Nursing Research Initiative For Scotland
 NRMP National Resident Matching Program
 NRPB National Radiological Protection Board
-NRPB National Radiological Protection Board
 NRPF National Retinitis Pigmentosa Foundation, Name Changed To: Foundation Fighting Blindness
 NRR National Research Register
 NRSCL National Reference System For The Clinical Laboratory
 NS Nutrition Society
-NSA National Stroke Association
 NSA National Stroke Association
 NSA Neurological Society Of America
 NSAA National Surgical Assistant Association
@@ -8833,7 +8588,6 @@ NSC National Skin Centre, Singapore
 NSC Neuroscience Center
 NSCC National Society For Crippled Children
 NSCIA National Spinal Cord Injury Association
-NSCIA National Spinal Cord Injury Association
 NSCRT Nova Scotia College Of Respiratory Therapists
 NSCT National Society Of Cardiovascular Technologists
 NSDA Nova Scotia Dental Association
@@ -8848,8 +8602,6 @@ NSF Norsk Sykepleier Forbund (Norwegian Nurses Association)
 NSFA Nouvelle SociÈtÈ FranÁaise DíAthÈrosclÈrose
 NSFG National Survey Of Family Growth
 NSGC National Society Of Genetic Counselors
-NSGC National Society Of Genetic Counselors
-NSH National Society For Histotechnology
 NSH National Society For Histotechnology
 NSI Nutrition Screening Initiative
 NSMI National Sports Medicine Institute Of The United Kingdom
@@ -8901,7 +8653,6 @@ NVSL National Veterinary Services Laboratories
 NVVA Nederlandse Vereniging Voor ArbeidshygiÎne. Dutch Occupational Hygiene Society
 NVVE Nederlandse Vereniging Voor Een Vrijwillig Levenseinde
 NWDA National Wholesale Druggists Association
-NWDA National Wholesale Druggists Association
 NWDA National Wholesale Druggistsí Association
 NWHC National Wildlife Health Center
 NWHIC National Womenís Health Information Center
@@ -8913,7 +8664,6 @@ NWTSG National Wilms Tumor Study Group
 NWVDHA Northwest Virginia Dental Hygienists Association
 NYDAA New York Dental Assistants Association
 NYF Norsk Yrkeshygienisk Forening. Norwegian Occupational Hygiene Association
-NYHA New York Heart Association
 NYHA New York Heart Association
 NYHAFC New York Heart Association Functional Class
 NYRS New York Roentgen Society
@@ -9056,7 +8806,6 @@ OKDB Ovarian Kaleidoscope Database
 OKU Orthopaedic Knowledge Update
 OLAW Office Of Laboratory Animal Welfare
 OLSNA Orthopaedic Laser Society Of North America
-OLSNA Orthopaedic Laser Society Of North America
 OM Open Medicine [periodical]
 OMA Ontario Medical Association
 OMD On-line Medical Dictionary
@@ -9083,7 +8832,6 @@ ONF Oncology Nursing Forum [periodical]
 ONG Orthodontic National Group
 ONIG Ontario Nursing Informatics Group
 ONIGA Oncology Nurses Interest Group Of Alberta
-ONS Oncology Nursing Society
 ONS Oncology Nursing Society
 ONSIL Organisation Nationale Des Syndicats DíInfirmiers LibÈraux
 OOA Ohio Optometric Association
@@ -9123,12 +8871,10 @@ ORL Journal For Oto-Rhino-Laryngology And Its Related Specialties
 ORNAC /AIISOC Operating Room Nurses Association Of Canada / Association Des Infirmicres Et Infirmiers De Salle DíOpÈration Du Canada
 ORS Observatoires RÈgionaux De La SantÈ
 ORS Orthopaedic Research Society
-ORS Orthopaedic Research Society
 ORS Orthopaedic Research Society (also: AAOS Specialty Societies)
 ORS-ROC Orthopedic Research Society, Republic Of China
 ORTHO American Orthopsychiatric Association
 ORWH Office Of Research On Womenís Health
-OSA Optical Society Of America
 OSA Optical Society Of America
 OSAP Organization For Safety And Asepsis Procedures
 OSCE / ECOS Objective Structured Clinical Examination / Examen Clinique Objectif StructurÈ
@@ -9485,7 +9231,6 @@ PSEF Plastic Surgery Educational Foundation
 PSF Pharmaciens Sans Fronticres
 PSI Patient Safety International
 PSI Psychiatric Society For Informatics
-PSI Psychiatric Society For Informatics
 PSIMPLE Problem-Solving In Medical Physiology, Logically Explained [software]
 PSIS Plastic Surgery Information Service
 PSNZ Pharmaceutical Society Of New Zealand
@@ -9548,10 +9293,8 @@ RAAQ Regroupement Des Aveugles Et Amblyopes Du QuÈbec
 RACDS Royal Australasian College Of Dental Surgeons
 RACE Registry Of Approved Continuing Education (AAVSB)
 RACGP Royal Australian College Of General Practitioners
-RACGP Royal Australian College Of General Practitioners
 RACMA Royal Australasian College Of Medical Administrators
 RACP Royal Australasian College Of Physicians
-RACS Royal Australasian College Of Surgeons
 RACS Royal Australasian College Of Surgeons
 RADAR Regional Alcohol And Drug Awareness Resource
 RAIST / ANSTI RÈseau Africain DíInstitutions Scientifiques Et Technologiques / African Network Of Scientific And Technological Institutions
@@ -9568,7 +9311,6 @@ RB Radiologia Brasileira [periodical]
 RB Rating Board
 RBMA Radiology Business Management Association
 RBNA Royal British Nurses Association
-RBNA Royal British Nurses Association
 RBRVS Resource-Based Relative Value Scale
 RCA Radiological Consultants Association
 RCACCS / CACHCA Regroupement Canadien Des Associations De Centres Communautaires De SantÈ / Canadian Alliance Of Community Health Centre Associations
@@ -9582,9 +9324,7 @@ RCDC Royal College Of Dentists Of Canada. Collcge Royal Des Chirurgiens Dentiste
 RCDSO Royal College Of Dental Surgeons Of Ontario
 RCE / NCE RÈseaux De Centres Díexcellence / Networks Of Centres Of Excellence
 RCGP Royal College Of General Practitioners
-RCGP Royal College Of General Practitioners
 RCIS Research Centre For Injury Studies
-RCM Royal College Of Midwives
 RCM Royal College Of Midwives
 RCN Right Caudate Nucleus; Royal College Of Nursing
 RCN Royal College Of Nursing
@@ -9618,15 +9358,12 @@ RCS Royal College Of Science
 RCS Royal College Of Surgeons
 RCSE Royal College Of Surgeons, Edinburgh
 RCSED Royal College Of Surgeons Of Edinburgh
-RCSED Royal College Of Surgeons Of Edinburgh
 RCSENG Royal College Of Surgeons Of England
 RCSF / CWHN RÈseau Canadien Pour La SantÈ Des Femmes / Canadian Womenís Health Network
-RCSI Royal College Of Surgeons In Ireland
 RCSI Royal College Of Surgeons In Ireland
 RCSIO / CONJ Revue Canadienne De Soins Infirmiers En Oncologie / Canadian Oncology Nursing Journal
 RCSLT Royal College Of Speech And Language Therapists
 RCTA / CNAC RÈseau Canadien Pour Le Traitement De LíAsthme / Canadian Network For Asthma Care
-RCVS Royal College Of Veterinary Surgeons
 RCVS Royal College Of Veterinary Surgeons
 RDAA Rural Doctors Association Of Australia
 RDB Rare Disease Database
@@ -9754,18 +9491,14 @@ RSI Recherche En Soins Infirmiers [journal]
 RSL Radiological Society Of Louisiana
 RSM Risk Screening Model; Royal Society Of Medicine
 RSM Royal Society Of Medicine
-RSM Royal Society Of Medicine
-RSNA Radiological Society Of North America
 RSNA Radiological Society Of North America
 RSNA Radiological Society Of North America; Renal Sympathetic Nerve Activity
-RSPCA Royal Society For The Prevention Of Cruelty To Animals
 RSPCA Royal Society For The Prevention Of Cruelty To Animals
 RSPH Royal Society For Public Health
 RSPH Royal Society For The Promotion Of Health
 RSS RÈseau SantÈ Social
 RSS RÈsumÈÈde Sortie StandardisÈ
 RSSA Royal Society Of South Africa
-RSTMH Royal Society Of Tropical Medicine And Hygiene
 RSTMH Royal Society Of Tropical Medicine And Hygiene
 RSWA Royal Society Of Western Australia
 RTECS Registry Of Toxic Effects Of Chemical Substances [database]
@@ -9803,7 +9536,6 @@ SADD Students Against Drunk Driving
 SADHA Student Member Of The American Dental Hygienists Association
 SADJ South-African Dental Association Journal
 SAED Scandinavian Academy Of Esthetic Dentistry
-SAEM Society For Academic Emergency Medicine
 SAEM Society For Academic Emergency Medicine
 SAF Schizophrenia Australia Foundation
 SAFE Smokefree Air For Everyone
@@ -10020,7 +9752,6 @@ SCTS Society For Cardiothoracic Surgery In Great Britain And Ireland
 SCUR Society For Cutaneous Ultrastructure Research
 SCVDHA Santa Clara Valley Dental Hygienists Association
 SCVIR Society Of Cardiovascular And Interventional Radiology
-SCVIR Society Of Cardiovascular And Interventional Radiology
 SCVMPH Scientific Committee For Veterinary Measures Relating To Public Health
 SCVP Society For Cardiovascular Pathology
 SCVS Society For Clinical Vascular Surgery
@@ -10182,14 +9913,11 @@ SGIM Society Of General Internal Medicine
 SGK / SSODF Schweizerische Gesellschaft F¸r Kieferorthop‰die. SociÈtÈ Suisse DíOrthopÈdie Dento-Faciale. Societr Svizzera Di Ortopedia Dento-Facciale. Swiss Orthodontic Society.
 SGKZ Schweizerische Gesellschaft F¸r Klinische Zytologie. SociÈtÈ Suisse De Cytologie Clinique
 SGM Society For General Microbiology
-SGM Society For General Microbiology
 SGMI / SSIM / SSMI Schweizerische Gesellschaft F¸r Medizinische Informatik / SociÈtÈ Suisse DíInformatique MÈdicale / Societr Svizzera DíInformatica Medicale / Swiss Society For Medical Informatics
 SGMS Society For Geriatric Medicine Singapore
 SGNA Society Of Gastroenterology Nurses And Associates
 SGNO Society Of Gynecologic Nurse Oncologists
 SGO Society Of Gynecologic Oncologists
-SGO Society Of Gynecologic Oncologists
-SGP Society Of General Physiologists
 SGP Society Of General Physiologists
 SGR Society Of Gastrointestinal Radiologists
 SGS Southern Gerontological Society
@@ -10232,7 +9960,6 @@ SICB Society For Integrative And Comparative Biology
 SICOT International Society Of Orthopaedic Surgery And Traumatology (AAOS Specialty Societies: SICOT US Chapter)
 SICOT SociÈtÈ Internationale De Chirurgie OrthopÈdique Et De Traumatologie. International Society Of Orthopaedic Surgery And Traumatology
 SICP Society Of Invasive Cardiovascular Professionals
-SID Society For Investigative Dermatology
 SID Society For Investigative Dermatology
 SID State Inpatient Database
 SIDAPA Societr Italiana Di Dermatologia Allergologica Professionale E Ambientale
@@ -10310,7 +10037,6 @@ SMBE Society For Medical And Biological Engineering
 SMCA / CSAM SociÈtÈ MÈdicale Canadienne Sur LíAddiction / Canadian Society Of Addiction Medicine
 SMD SociÈtÈ De Mcdecine Dentaire
 SMDM Society For Medical Decision Making
-SMDM Society For Medical Decision Making
 SMFM Society For Maternal-Fetal Medicine
 SMGP Schweizerischen Gesellschaft F¸r Phytotherapie
 SMHP SociÈtÈ MÈdical Des HÙpitaux De Paris
@@ -10348,7 +10074,6 @@ SNCF Singapore Nurses Christian Fellowsh
 SNCH Syndicat National Des Cadres Hospitaliers
 SNCO Syndicat National Des Chirurgiens OrthopÈdistes
 SNDA Student National Dental Association
-SNDA Student National Dental Association
 SNDHA Student National Dental Hygienists Association
 SNDV Syndicat National Des Dermato-VÈn Èr Èologues
 SNE SociÈtÈ De Neuroendocrinologie
@@ -10374,7 +10099,6 @@ SNJMG Syndicat National Des Jeunes MÈdecins GÈnÈralistes
 SNLF SociÈtÈ De Neuropsychologie De Langue FranÁaise
 SNM Society Of Nuclear Medicine
 SNM Society Of Nuclear Medicine; Sulfanilamide
-SNMA Student National Medical Association
 SNMA Student National Medical Association
 SNMARHNU Syndicat National Des MÈdecins AnesthÈsistes RÈanimateurs Des HÙpitaux Non Universitaires
 SNME Syndicat National Des MÈdecins EsthÈtiques
@@ -10402,7 +10126,6 @@ SNRPH Syndicat National Des RadioPharmaciens
 SNRS Southern Nursing Research Society
 SNS Senior Nursing Sister; Society Of Neurological Surgeons; Supplementary Nursing System; Sympathetic Nervous System
 SNSF / FNRS / SNF Swiss National Science Foundation / Fonds National Suisse De La Recherche Scientifique / Schweizerischer Nationalfonds Zur Fˆrderung Der Wissenschaftlichen Forschung
-SOA Southern Orthopaedic Association
 SOA Southern Orthopaedic Association
 SOA Supplement On Aging (survey)
 SOACPER Southern Academy Of Periodontology
@@ -10443,7 +10166,6 @@ SOMOS Society Of Military Orthopaedic Surgeons (AAOS)
 SOO SociÈtÈ DíOrthopÈdie Et De Traumatology De LíOuest
 SOP Scope Of Practice
 SOPHE Society For Public Health Education
-SOPHE Society For Public Health Education
 SOPS Standard Operating Procedures
 SOR Standards, Options & Recommandations
 SORH State Offices Of Rural Health
@@ -10474,7 +10196,6 @@ SPI Societr Psicoanalitica Italiana
 SPIASESS Syndicat Professionnel Des Infirmicres Et Aides Soignantes Des …tablissements De SÈcuritÈ Sociale
 SPICE North Carolina Statewide Program For Infection Control And Epidemiology
 SPIE International Society For Optical Engineering
-SPIE International Society For Optical Engineering
 SPII-3R Syndicat Professionnel Des Infirmicres Et Infirmiers De Trois-Rivicres
 SPIL Syndicat Professionnel Des Infirmicres LibÈrales
 SPILF SociÈtÈ De Pathologie Infectieuse De Langue FranÁaise
@@ -10500,7 +10221,6 @@ SPP SociÈtÈ Psychanalytique De Paris
 SPP Society For Pediatric Pathology
 SPPA Sociedade PsicanalÌtica De Porto Alegre, Brazil)
 SPR Sociedade Paulista De Radiologia E DiagnÛstico Por Imagem
-SPR Society For Pediatric Radiology
 SPR Society For Pediatric Radiology
 SPR Society For Pediatric Research
 SPS Skin Pharmacology Society
@@ -10601,7 +10321,6 @@ STBRL Sexually Transmitted Bacteria Reference Laboratory
 STEM Scanning Transmission Electron Microscope; Society Of Teachers Of Emergency Medicine
 STEP Seattle Treatment Education Program
 STFM Society Of Teachers Of Family Medicine
-STFM Society Of Teachers Of Family Medicine
 STI Sexually Transmitted Infections [periodical]
 STIPDA State And Territorial Injury Prevention Directors Association
 STM International Association Of Scientific, Technical & Medical Publishers
@@ -10614,8 +10333,6 @@ STPI SociÈtÈ Tunisienne De Pathologie Infectueuse
 STR Society Of Thoracic Radiology
 STRAW Staging System For Reproductive Aging In Women
 STS Society Of Thoracic Surgeons
-STS Society Of Thoracic Surgeons
-STSA Southern Thoracic Surgical Association
 STSA Southern Thoracic Surgical Association
 STTY / FINNSHIA / FISH Sosiaali- Ja Terveydenhuollon Tietojenk‰sittely-Yhdistys / Finnish Social And Health Informatics Association / Fˆreningen Fˆr Informationsbehandling Inom Social- Och H‰lsovarden
 STVM Society For Tropical Veterinary Medicine
@@ -10774,7 +10491,6 @@ TNCC Trauma Nursing Core Course
 TNS Transcultural Nursing Society
 TNT Telephone Nursing Telezine [e-magazine]
 TOA Texas Optometric Association
-TOA Texas Orthopaedic Association
 TOA Texas Orthopaedic Association
 TOD Turk Ortodonti Dernegi. Turkish Orthodontic Society
 TOHA Taiwan Occupational Hygiene Association
@@ -11202,7 +10918,6 @@ WMS Wilderness Medical Society
 WNA Wisconsin Nurses Association
 WNP Womenís Health Care Nurse Practioner
 WNRS Western Neuroradiological Society
-WOA Western Orthopaedic Association
 WOA Western Orthopaedic Association
 WOA Wisconsin Optometric Association
 WOA Wyoming Optometric Association
